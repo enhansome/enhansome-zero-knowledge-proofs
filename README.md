@@ -116,13 +116,13 @@ More complete curated list of implementations and scientific resources:
   * [YouTube Channel](https://www.youtube.com/@ironfishnetwork)
 * [succinct: Write ZKPs with Rust using SP1, a performant, open-source zkVM and generate proofs in 1-click on Succinct’s decentralized prover network](https://succinct.xyz/)
   * [document](https://succinctlabs.github.io/sp1/)
-* [Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions](https://github.com/valida-xyz/valida) ⭐ 343 | 🐛 49 | 🌐 Rust | 📅 2026-04-27
+* [Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions](https://github.com/valida-xyz/valida) ⭐ 344 | 🐛 49 | 🌐 Rust | 📅 2026-04-27
 * [Nexus zkVM:  Nexus is a modular, extensible, open-source, highly-parallelized, prover-optimized, contributor-friendly, zkVM written in Rust, focused on performance and security.](https://nexus.xyz/)
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,259 | 🐛 36 | 🌐 Circom | 📅 2026-08-12
-* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,080 | 🐛 63 | 🌐 TypeScript | 📅 2026-07-08
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,259 | 🐛 37 | 🌐 Circom | 📅 2026-08-14
+* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,081 | 🐛 63 | 🌐 TypeScript | 📅 2026-07-08
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
 * [Web-Proofs](https://zeroknowledge.fm/325-2/)
@@ -149,7 +149,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Try
 
-* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,509 | 🐛 152 | 🌐 C | 📅 2026-08-03
+* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,510 | 🐛 152 | 🌐 C | 📅 2026-08-03
 * [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,129 | 🐛 51 | 🌐 Rust | 📅 2024-07-23
 * [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs) ⭐ 554 | 🐛 6 | 🌐 Haskell | 📅 2022-12-25
 
@@ -209,7 +209,7 @@ Protocol descriptions:
 
 * [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 * [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
-* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 305 | 🐛 324 | 🌐 TeX | 📅 2026-08-12 (very useful as detailed cheat-sheet of all cryptography used)
+* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 304 | 🐛 324 | 🌐 TeX | 📅 2026-08-12 (very useful as detailed cheat-sheet of all cryptography used)
 
 OxPARC learning group:
 
@@ -233,7 +233,7 @@ OxPARC learning group:
   * [Roll-up tutorial using Circom and SnarkJS by Ying Tong](https://github.com/therealyingtong/roll_up_circom_tutorial) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2019-07-20
 * [Ronkathon: Applied Cryptography from first principles](https://github.com/pluto/ronkathon) ⭐ 347 | 🐛 45 | 🌐 Rust | 📅 2025-11-24
 * [ethsnarks by HarryR (alternative toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop)](https://github.com/HarryR/ethsnarks) ⚠️ Archived
-* [jsnark (Java, bindings to libsnark)](https://github.com/akosba/jsnark) ⭐ 217 | 🐛 7 | 🌐 Java | 📅 2022-12-17
+* [jsnark (Java, bindings to libsnark)](https://github.com/akosba/jsnark) ⭐ 216 | 🐛 7 | 🌐 Java | 📅 2022-12-17
 
 ### Scaling the prover
 
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
