@@ -155,7 +155,7 @@
             "last_commit": "2026-08-03T02:33:49Z",
             "owner": "Tongsuo-Project",
             "repo": "Tongsuo",
-            "stars": 1510
+            "stars": 1511
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:56:53.863Z",
+    "last_updated": "2026-08-15T20:50:26.008Z",
     "original_repository": "matter-labs/awesome-zero-knowledge-proofs",
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
     "enhanced_repository": "enhansome/enhansome-zero-knowledge-proofs",

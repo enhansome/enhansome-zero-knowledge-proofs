@@ -83,7 +83,7 @@ More complete curated list of implementations and scientific resources:
 
 ## Use cases
 
-* [Awesome Privacy on Blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) ⭐ 288 | 🐛 7 | 📅 2025-11-04
+* [Awesome Privacy on Blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) ⭐ 288 | 🐛 6 | 📅 2025-11-04
 
 ## Applications
 
@@ -149,7 +149,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Try
 
-* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,510 | 🐛 152 | 🌐 C | 📅 2026-08-03
+* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,511 | 🐛 152 | 🌐 C | 📅 2026-08-03
 * [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,129 | 🐛 51 | 🌐 Rust | 📅 2024-07-23
 * [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs) ⭐ 554 | 🐛 6 | 🌐 Haskell | 📅 2022-12-25
 
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
