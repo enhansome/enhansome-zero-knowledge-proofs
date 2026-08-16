@@ -150,7 +150,7 @@ More complete curated list of implementations and scientific resources:
 ### Try
 
 * [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,511 | 🐛 152 | 🌐 C | 📅 2026-08-03
-* [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,129 | 🐛 51 | 🌐 Rust | 📅 2024-07-23
+* [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,130 | 🐛 51 | 🌐 Rust | 📅 2024-07-23
 * [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs) ⭐ 554 | 🐛 6 | 🌐 Haskell | 📅 2022-12-25
 
 ### Proof system implementations
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

@@ -169,7 +169,7 @@
             "last_commit": "2024-07-23T19:30:43Z",
             "owner": "dalek-cryptography",
             "repo": "bulletproofs",
-            "stars": 1129
+            "stars": 1130
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:50:26.008Z",
+    "last_updated": "2026-08-16T20:49:14.969Z",
     "original_repository": "matter-labs/awesome-zero-knowledge-proofs",
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
     "enhanced_repository": "enhansome/enhansome-zero-knowledge-proofs",
