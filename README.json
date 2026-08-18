@@ -99,7 +99,7 @@
           "repo_info": {
             "archived": false,
             "language": "Circom",
-            "last_commit": "2026-08-14T17:21:46Z",
+            "last_commit": "2026-08-18T18:26:39Z",
             "owner": "selfxyz",
             "repo": "self",
             "stars": 1259
@@ -155,7 +155,7 @@
             "last_commit": "2026-08-03T02:33:49Z",
             "owner": "Tongsuo-Project",
             "repo": "Tongsuo",
-            "stars": 1512
+            "stars": 1513
           }
         },
         {
@@ -169,7 +169,7 @@
             "last_commit": "2024-07-23T19:30:43Z",
             "owner": "dalek-cryptography",
             "repo": "bulletproofs",
-            "stars": 1130
+            "stars": 1129
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2026-08-11T20:48:51Z",
             "owner": "Consensys",
             "repo": "gnark",
-            "stars": 1731
+            "stars": 1730
           }
         },
         {
@@ -291,7 +291,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T15:59:59Z",
+            "last_commit": "2026-08-18T14:07:23Z",
             "owner": "o1-labs",
             "repo": "o1js",
             "stars": 604
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:55:24.183Z",
+    "last_updated": "2026-08-18T20:51:34.215Z",
     "original_repository": "matter-labs/awesome-zero-knowledge-proofs",
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
     "enhanced_repository": "enhansome/enhansome-zero-knowledge-proofs",
