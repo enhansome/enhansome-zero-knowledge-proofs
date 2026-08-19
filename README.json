@@ -1,501 +1,531 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Applications"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "SNARK-based permissioned database: rollup by BarryWhitehat",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-02-27T06:58:55Z",
-            "owner": "barryWhiteHat",
-            "repo": "roll_up",
-            "stars": 369
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Loopring DEX Protocol (v3)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-10-25T02:03:29Z",
-            "owner": "Loopring",
-            "repo": "protocols",
-            "stars": 335
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zkPoD: A Practical Decentralized System for Data Exchange",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-05-21T08:07:16Z",
-            "owner": "sec-bit",
-            "repo": "zkPoD-node",
-            "stars": 209
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gnosis dFusion: DEX on SNARKs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2021-12-01T20:13:07Z",
-            "owner": "gnosis",
-            "repo": "dex-research",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "ZK Sync",
-          "description": "by Matter Labs",
           "children": [
             {
               "node_type": "item",
-              "title": "ZK Sync code",
+              "title": "SNARK-based permissioned database: rollup by BarryWhitehat",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Rust",
-                "last_commit": "2026-05-08T09:04:17Z",
-                "owner": "matter-labs",
-                "repo": "zksync",
-                "stars": 4923
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Ethereum"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Proof of Passport",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Circom",
-            "last_commit": "2026-08-18T18:26:39Z",
-            "owner": "selfxyz",
-            "repo": "self",
-            "stars": 1259
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Semaphore",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-08T17:43:36Z",
-            "owner": "semaphore-protocol",
-            "repo": "semaphore",
-            "stars": 1081
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zero-Knowledge Machine Learning - awesome-zkml",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2025-09-23T09:11:44Z",
-            "owner": "worldcoin",
-            "repo": "awesome-zkml",
-            "stars": 1054
-          }
-        }
-      ],
-      "title": "Non-blockchain"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Comparison of the most popular zkp systems"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Implementation in C",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-03T02:33:49Z",
-            "owner": "Tongsuo-Project",
-            "repo": "Tongsuo",
-            "stars": 1513
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Implementation in Rust",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-07-23T19:30:43Z",
-            "owner": "dalek-cryptography",
-            "repo": "bulletproofs",
-            "stars": 1129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Implementation in Haskell",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2022-12-25T10:16:13Z",
-            "owner": "sdiehl",
-            "repo": "bulletproofs",
-            "stars": 554
-          }
-        }
-      ],
-      "title": "Try"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SNARKs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "libsnark (C++)",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "great tutorial",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
+                "id": 147513646,
                 "language": "C++",
-                "last_commit": "2021-05-17T22:04:01Z",
-                "owner": "coder5876",
-                "repo": "libsnark-tutorial",
-                "stars": 188
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-06-12T22:39:48Z",
-            "owner": "scipr-lab",
-            "repo": "libsnark",
-            "stars": 1929
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zokrates (toolbox for zkSNARKs on Ethereum)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-08-01T16:50:35Z",
-            "owner": "Zokrates",
-            "repo": "ZoKrates",
-            "stars": 1873
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gnark - library for zero-knowledge proof protocols written in Go",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-11T20:48:51Z",
-            "owner": "Consensys",
-            "repo": "gnark",
-            "stars": 1730
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bellman (rust)",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "demo circuit",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Rust",
-                "last_commit": "2018-09-26T20:01:26Z",
-                "owner": "ebfull",
-                "repo": "bellman-demo",
-                "stars": 8
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-25T09:50:29Z",
-            "owner": "zkcrypto",
-            "repo": "bellman",
-            "stars": 1126
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:07:23Z",
-            "owner": "o1-labs",
-            "repo": "o1js",
-            "stars": 604
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "snarky (Ocaml, from O(1) labs, team behind Mina Protocol)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-08-05T07:16:35Z",
-            "owner": "o1-labs",
-            "repo": "snarky",
-            "stars": 506
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "circom and snarkjs tutorial",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "A circuit and zk-snark implement using Circom and SnarkJS by Luozhu",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Solidity",
-                "last_commit": "2022-12-18T18:03:55Z",
-                "owner": "LuozhuZhang",
-                "repo": "zkps-circuit-snark",
-                "stars": 50
+                "last_commit": "2023-02-27T06:58:55Z",
+                "owner": "barryWhiteHat",
+                "repo": "roll_up",
+                "stars": 369
               }
             },
             {
               "node_type": "item",
-              "title": "Roll-up tutorial using Circom and SnarkJS by Ying Tong",
+              "title": "Loopring DEX Protocol (v3)",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2019-07-20T16:21:29Z",
-                "owner": "therealyingtong",
-                "repo": "roll_up_circom_tutorial",
-                "stars": 31
+                "id": 163461138,
+                "language": "Solidity",
+                "last_commit": "2024-10-25T02:03:29Z",
+                "owner": "Loopring",
+                "repo": "protocols",
+                "stars": 335
               }
+            },
+            {
+              "node_type": "item",
+              "title": "zkPoD: A Practical Decentralized System for Data Exchange",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193872128,
+                "language": "Go",
+                "last_commit": "2023-05-21T08:07:16Z",
+                "owner": "sec-bit",
+                "repo": "zkPoD-node",
+                "stars": 209
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gnosis dFusion: DEX on SNARKs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139961581,
+                "language": "TeX",
+                "last_commit": "2021-12-01T20:13:07Z",
+                "owner": "gnosis",
+                "repo": "dex-research",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "ZK Sync",
+              "description": "by Matter Labs",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ZK Sync code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189174934,
+                    "language": "Rust",
+                    "last_commit": "2026-05-08T09:04:17Z",
+                    "owner": "matter-labs",
+                    "repo": "zksync",
+                    "stars": 4923
+                  }
+                }
+              ]
             }
           ],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-04-29T01:41:29Z",
-            "owner": "iden3",
-            "repo": "circom_old",
-            "stars": 477
-          }
+          "description": null,
+          "node_type": "group",
+          "title": "Ethereum"
         },
         {
-          "node_type": "item",
-          "title": "Ronkathon: Applied Cryptography from first principles",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-11-24T23:30:02Z",
-            "owner": "pluto",
-            "repo": "ronkathon",
-            "stars": 347
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ethsnarks by HarryR (alternative toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2024-10-28T12:41:01Z",
-            "owner": "HarryR",
-            "repo": "ethsnarks",
-            "stars": 240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jsnark (Java, bindings to libsnark)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-12-17T23:05:44Z",
-            "owner": "akosba",
-            "repo": "jsnark",
-            "stars": 216
-          }
-        }
-      ],
-      "title": "Try"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DIZK: Java library for distributed zero knowledge proof systems with Apache Spark",
-          "description": "(see the research paper)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-04-13T19:55:42Z",
-            "owner": "scipr-lab",
-            "repo": "dizk",
-            "stars": 243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SnarkyGPU: distributed GPU based zkSNARKs prover",
-          "description": "(work in progress)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-10-11T16:24:08Z",
-            "owner": "matter-labs-archive",
-            "repo": "snarkyGPU",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Scaling the prover"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Implementation of ZCash MPC Ceremony, Part I: \"Powers of Tau\"",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "Archived independent implementation in Go",
+              "title": "Proof of Passport",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669466632,
+                "language": "Circom",
+                "last_commit": "2026-08-18T18:26:39Z",
+                "owner": "selfxyz",
+                "repo": "self",
+                "stars": 1259
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Semaphore",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179699830,
+                "language": "TypeScript",
+                "last_commit": "2026-07-08T17:43:36Z",
+                "owner": "semaphore-protocol",
+                "repo": "semaphore",
+                "stars": 1081
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zero-Knowledge Machine Learning - awesome-zkml",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": true,
-                "language": "Go",
-                "last_commit": "2018-03-13T18:39:07Z",
-                "owner": "FiloSottile",
-                "repo": "powersoftau",
-                "stars": 34
+                "id": 538595299,
+                "language": null,
+                "last_commit": "2025-09-23T09:11:44Z",
+                "owner": "worldcoin",
+                "repo": "awesome-zkml",
+                "stars": 1054
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-06-01T14:07:05Z",
-            "owner": "ebfull",
-            "repo": "powersoftau",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Implementation of ZCash MPC Ceremony, Part I: \"Sapling Circuit\"",
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-01-22T19:00:30Z",
-            "owner": "zcash",
-            "repo": "sapling-mpc",
-            "stars": 30
-          }
+          "node_type": "group",
+          "title": "Non-blockchain"
         }
       ],
-      "title": "Multi-Party Ceremony (MPC) for Trusted Setup"
+      "title": "Applications"
     },
     {
-      "description": "SNORKs are SNARKs with universal and updateable trusted setup.",
-      "items": [],
-      "title": "SNORKs"
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Implementation in C",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290136001,
+                "language": "C",
+                "last_commit": "2026-08-03T02:33:49Z",
+                "owner": "Tongsuo-Project",
+                "repo": "Tongsuo",
+                "stars": 1513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Implementation in Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119915731,
+                "language": "Rust",
+                "last_commit": "2024-07-23T19:30:43Z",
+                "owner": "dalek-cryptography",
+                "repo": "bulletproofs",
+                "stars": 1129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Implementation in Haskell",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140532513,
+                "language": "Haskell",
+                "last_commit": "2022-12-25T10:16:13Z",
+                "owner": "sdiehl",
+                "repo": "bulletproofs",
+                "stars": 554
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Try"
+        }
+      ],
+      "title": "Bulletproofs"
     },
     {
-      "description": "STARKs are SNARKs without Trusted Setup.",
-      "items": [],
-      "title": "STARKS"
+      "description": "SNARK = Succinct Non-interactive ARguments of Knowledge",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "libsnark (C++)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "great tutorial",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 137278135,
+                    "language": "C++",
+                    "last_commit": "2021-05-17T22:04:01Z",
+                    "owner": "coder5876",
+                    "repo": "libsnark-tutorial",
+                    "stars": 188
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 20418463,
+                "language": "C++",
+                "last_commit": "2025-06-12T22:39:48Z",
+                "owner": "scipr-lab",
+                "repo": "libsnark",
+                "stars": 1929
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zokrates (toolbox for zkSNARKs on Ethereum)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107952203,
+                "language": "Rust",
+                "last_commit": "2024-08-01T16:50:35Z",
+                "owner": "Zokrates",
+                "repo": "ZoKrates",
+                "stars": 1873
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gnark - library for zero-knowledge proof protocols written in Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242781085,
+                "language": "Go",
+                "last_commit": "2026-08-11T20:48:51Z",
+                "owner": "Consensys",
+                "repo": "gnark",
+                "stars": 1730
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bellman (rust)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "demo circuit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 150466978,
+                    "language": "Rust",
+                    "last_commit": "2018-09-26T20:01:26Z",
+                    "owner": "ebfull",
+                    "repo": "bellman-demo",
+                    "stars": 8
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 48537264,
+                "language": "Rust",
+                "last_commit": "2026-02-25T09:50:29Z",
+                "owner": "zkcrypto",
+                "repo": "bellman",
+                "stars": 1126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368694740,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T14:07:23Z",
+                "owner": "o1-labs",
+                "repo": "o1js",
+                "stars": 604
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snarky (Ocaml, from O(1) labs, team behind Mina Protocol)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123514036,
+                "language": "OCaml",
+                "last_commit": "2026-08-05T07:16:35Z",
+                "owner": "o1-labs",
+                "repo": "snarky",
+                "stars": 506
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "circom and snarkjs tutorial",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A circuit and zk-snark implement using Circom and SnarkJS by Luozhu",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 481629020,
+                    "language": "Solidity",
+                    "last_commit": "2022-12-18T18:03:55Z",
+                    "owner": "LuozhuZhang",
+                    "repo": "zkps-circuit-snark",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Roll-up tutorial using Circom and SnarkJS by Ying Tong",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 174232600,
+                    "language": "JavaScript",
+                    "last_commit": "2019-07-20T16:21:29Z",
+                    "owner": "therealyingtong",
+                    "repo": "roll_up_circom_tutorial",
+                    "stars": 31
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": true,
+                "id": 144109258,
+                "language": "JavaScript",
+                "last_commit": "2023-04-29T01:41:29Z",
+                "owner": "iden3",
+                "repo": "circom_old",
+                "stars": 477
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ronkathon: Applied Cryptography from first principles",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 794674804,
+                "language": "Rust",
+                "last_commit": "2025-11-24T23:30:02Z",
+                "owner": "pluto",
+                "repo": "ronkathon",
+                "stars": 347
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ethsnarks by HarryR (alternative toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 140735217,
+                "language": "C++",
+                "last_commit": "2024-10-28T12:41:01Z",
+                "owner": "HarryR",
+                "repo": "ethsnarks",
+                "stars": 240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jsnark (Java, bindings to libsnark)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47721653,
+                "language": "Java",
+                "last_commit": "2022-12-17T23:05:44Z",
+                "owner": "akosba",
+                "repo": "jsnark",
+                "stars": 216
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Try"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DIZK: Java library for distributed zero knowledge proof systems with Apache Spark",
+              "description": "(see the research paper)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141190586,
+                "language": "Java",
+                "last_commit": "2022-04-13T19:55:42Z",
+                "owner": "scipr-lab",
+                "repo": "dizk",
+                "stars": 243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SnarkyGPU: distributed GPU based zkSNARKs prover",
+              "description": "(work in progress)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151385551,
+                "language": null,
+                "last_commit": "2018-10-11T16:24:08Z",
+                "owner": "matter-labs-archive",
+                "repo": "snarkyGPU",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scaling the prover"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Implementation of ZCash MPC Ceremony, Part I: \"Powers of Tau\"",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Archived independent implementation in Go",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 117164475,
+                    "language": "Go",
+                    "last_commit": "2018-03-13T18:39:07Z",
+                    "owner": "FiloSottile",
+                    "repo": "powersoftau",
+                    "stars": 34
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 109015945,
+                "language": "Rust",
+                "last_commit": "2021-06-01T14:07:05Z",
+                "owner": "ebfull",
+                "repo": "powersoftau",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Implementation of ZCash MPC Ceremony, Part I: \"Sapling Circuit\"",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128690522,
+                "language": "Rust",
+                "last_commit": "2023-01-22T19:00:30Z",
+                "owner": "zcash",
+                "repo": "sapling-mpc",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi-Party Ceremony (MPC) for Trusted Setup"
+        }
+      ],
+      "title": "SNARKs"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:51:34.215Z",
+    "last_updated": "2026-08-19T13:00:31.063Z",
     "original_repository": "matter-labs/awesome-zero-knowledge-proofs",
+    "original_repository_id": 156949882,
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
     "enhanced_repository": "enhansome/enhansome-zero-knowledge-proofs",
     "enhanced_repository_description": null,
