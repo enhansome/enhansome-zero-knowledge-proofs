@@ -103,7 +103,7 @@
                 "archived": false,
                 "id": 669466632,
                 "language": "Circom",
-                "last_commit": "2026-08-19T20:17:15Z",
+                "last_commit": "2026-08-20T08:23:05Z",
                 "owner": "selfxyz",
                 "repo": "self",
                 "stars": 1259
@@ -136,7 +136,7 @@
                 "last_commit": "2025-09-23T09:11:44Z",
                 "owner": "worldcoin",
                 "repo": "awesome-zkml",
-                "stars": 1054
+                "stars": 1055
               }
             }
           ],
@@ -164,7 +164,7 @@
                 "last_commit": "2026-08-03T02:33:49Z",
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1513
+                "stars": 1514
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2024-07-23T19:30:43Z",
                 "owner": "dalek-cryptography",
                 "repo": "bulletproofs",
-                "stars": 1129
+                "stars": 1128
               }
             },
             {
@@ -311,7 +311,7 @@
                 "archived": false,
                 "id": 368694740,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T14:07:23Z",
+                "last_commit": "2026-08-20T18:42:46Z",
                 "owner": "o1-labs",
                 "repo": "o1js",
                 "stars": 604
@@ -523,7 +523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:55:11.321Z",
+    "last_updated": "2026-08-20T20:57:24.820Z",
     "original_repository": "matter-labs/awesome-zero-knowledge-proofs",
     "original_repository_id": 156949882,
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
