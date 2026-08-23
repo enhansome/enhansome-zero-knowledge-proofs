@@ -103,7 +103,7 @@
                 "archived": false,
                 "id": 669466632,
                 "language": "Circom",
-                "last_commit": "2026-08-21T17:11:11Z",
+                "last_commit": "2026-08-23T12:14:08Z",
                 "owner": "selfxyz",
                 "repo": "self",
                 "stars": 1257
@@ -523,7 +523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T20:50:47.057Z",
+    "last_updated": "2026-08-23T20:50:43.858Z",
     "original_repository": "matter-labs/awesome-zero-knowledge-proofs",
     "original_repository_id": 156949882,
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
