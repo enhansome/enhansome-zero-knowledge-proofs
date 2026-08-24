@@ -167,10 +167,10 @@
                 "archived": false,
                 "id": 669466632,
                 "language": "Circom",
-                "last_commit": "2026-08-24T13:45:19Z",
+                "last_commit": "2026-08-24T14:19:02Z",
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1258
+                "stars": 1259
               }
             },
             {
@@ -313,10 +313,10 @@
                 "archived": false,
                 "id": 47279130,
                 "language": "TeX",
-                "last_commit": "2026-08-23T22:51:04Z",
+                "last_commit": "2026-08-24T15:22:48Z",
                 "owner": "zcash",
                 "repo": "zips",
-                "stars": 304
+                "stars": 305
               }
             }
           ],
@@ -381,7 +381,7 @@
                 "archived": false,
                 "id": 242781085,
                 "language": "Go",
-                "last_commit": "2026-08-20T22:25:08Z",
+                "last_commit": "2026-08-24T18:19:35Z",
                 "owner": "Consensys",
                 "repo": "gnark",
                 "stars": 1731
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:52:47.538Z",
+    "last_updated": "2026-08-24T21:00:07.280Z",
     "original_repository": "matter-labs/awesome-zero-knowledge-proofs",
     "original_repository_id": 156949882,
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
