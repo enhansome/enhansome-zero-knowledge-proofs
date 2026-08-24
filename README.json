@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "description": "Zero-Knowledge Proofs Starter Pack: alternative introductory list for beginners (more videos).\nZK whiteboard sessions by ZK Hack:\nA Hands-On Tutorial for Zero-Knowledge Proofs by Shir Peled (StarkWare):\nZero-Knowledge Proofs for Engineers (Dark Forest)\nMore complete curated list of implementations and scientific resources: https://zkp.science",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ZK Basics Cheatsheet",
+          "description": "a \"for (not too much) dummies\" poster, trying to not miss core concepts despite the simplified approach and topics selection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 505420667,
+            "language": null,
+            "last_commit": "2023-09-24T17:47:07Z",
+            "owner": "baro77",
+            "repo": "ZKbasicsCS",
+            "stars": 122
+          }
+        }
+      ],
+      "title": "General introduction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Privacy on Blockchains",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197427230,
+            "language": null,
+            "last_commit": "2025-11-04T17:37:06Z",
+            "owner": "Mikerah",
+            "repo": "awesome-privacy-on-blockchains",
+            "stars": 288
+          }
+        }
+      ],
+      "title": "Use cases"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -82,7 +124,7 @@
                     "last_commit": "2026-05-08T09:04:17Z",
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4922
+                    "stars": 4923
                   }
                 }
               ]
@@ -96,6 +138,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625046307,
+                "language": "Rust",
+                "last_commit": "2026-04-27T06:52:02Z",
+                "owner": "valida-xyz",
+                "repo": "valida",
+                "stars": 344
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other blockchains"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Proof of Passport",
               "description": null,
               "children": [],
@@ -103,10 +167,10 @@
                 "archived": false,
                 "id": 669466632,
                 "language": "Circom",
-                "last_commit": "2026-08-23T12:14:08Z",
+                "last_commit": "2026-08-24T13:45:19Z",
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1257
+                "stars": 1258
               }
             },
             {
@@ -136,7 +200,7 @@
                 "last_commit": "2025-09-23T09:11:44Z",
                 "owner": "worldcoin",
                 "repo": "awesome-zkml",
-                "stars": 1055
+                "stars": 1054
               }
             }
           ],
@@ -151,6 +215,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "From Zero (Knowledge) to Bulletproofs",
+          "description": "a long and very nice gradual explanation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124123331,
+            "language": "TeX",
+            "last_commit": "2023-02-16T13:31:09Z",
+            "owner": "AdamISZ",
+            "repo": "from0k2bp",
+            "stars": 171
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -164,7 +243,7 @@
                 "last_commit": "2026-08-03T02:33:49Z",
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1516
+                "stars": 1518
               }
             },
             {
@@ -208,6 +287,43 @@
     {
       "description": "SNARK = Succinct Non-interactive ARguments of Knowledge",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BabySNARK- The simplest possible SNARK for NP. You know, for kids!",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227760333,
+                "language": "Python",
+                "last_commit": "2024-05-22T16:04:13Z",
+                "owner": "initc3",
+                "repo": "babySNARK",
+                "stars": 242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zcash Sapling protocol spec",
+              "description": "(very useful as detailed cheat-sheet of all cryptography used)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47279130,
+                "language": "TeX",
+                "last_commit": "2026-08-23T22:51:04Z",
+                "owner": "zcash",
+                "repo": "zips",
+                "stars": 304
+              }
+            }
+          ],
+          "description": "Get started:\nWhy and How zk-SNARK Works:\nZkStudyClub:\nElectric Coin blog series:\nVitalik Buterin's blog series on SNARKs:\nProtocol descriptions:\nOxPARC learning group:",
+          "node_type": "group",
+          "title": "Learn"
+        },
         {
           "children": [
             {
@@ -520,10 +636,60 @@
         }
       ],
       "title": "SNARKs"
+    },
+    {
+      "description": "SNORK = Succinct Non-interactive Oecumenical (Universal) aRguments of Knowledge\nSNORKs are SNARKs with universal and updateable trusted setup.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sonic MPC implementation by Matter Labs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168801397,
+                "language": "Rust",
+                "last_commit": "2019-02-03T06:40:54Z",
+                "owner": "matter-labs-archive",
+                "repo": "alpha_line",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sonic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome PLONK",
+              "description": "A curated list of awesome things related to plonk proof system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316892859,
+                "language": null,
+                "last_commit": "2024-08-17T20:01:50Z",
+                "owner": "fluidex",
+                "repo": "awesome-plonk",
+                "stars": 243
+              }
+            }
+          ],
+          "description": "(This is a recent development. Contributions are welcome!)",
+          "node_type": "group",
+          "title": "PLONK"
+        }
+      ],
+      "title": "SNORKs"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:50:43.858Z",
+    "last_updated": "2026-08-24T13:52:47.538Z",
     "original_repository": "matter-labs/awesome-zero-knowledge-proofs",
     "original_repository_id": 156949882,
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",

@@ -39,12 +39,12 @@
 
 [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519): alternative introductory list for beginners (more videos).
 
+* [ZK Basics Cheatsheet](https://github.com/baro77/ZKbasicsCS) ⭐ 122 | 🐛 0 | 📅 2023-09-24 - a "for (not too much) dummies" poster, trying to not miss core concepts despite the simplified approach and topics selection
 * [Cyfrin Updraft: Fundamentals of Zero-Knowledge Proofs](https://cyfrin.com/updraft/fundamentals-of-zero-knowledge-proofs/)
 * [Zero Knowledge Proofs: An illustrated primer by Matthew Green](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
 * [Demystifying zero-knowledge proofs](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.p) ([video](https://www.youtube.com/watch?v=_6TqUNVLChc)) (math-heavy, awesome introduction into underlying cryptography)
 * [Introduction to SNARKs/STARKs by Eli Ben-Sasson](https://www.youtube.com/watch?v=VUN35BC11Qw) (YouTube)
 * [On Interactive Proofs and Zero-Knowledge: A Primer](https://medium.com/magicofc/interactive-proofs-and-zero-knowledge-b32f6c8d66c3)
-* [ZK Basics Cheatsheet](https://github.com/baro77/ZKbasicsCS) ⭐ 122 | 🐛 0 | 📅 2023-09-24 - a "for (not too much) dummies" poster, trying to not miss core concepts despite the simplified approach and topics selection
 * [A Non-Mathematical Introduction to Zero Knowledge Proof](https://mirror.xyz/krinza.eth/5_Cr91cBK3XdkeHPQ9yjc7z_4NoTNxyqBiM4Jz4d5VE) - a ZKP primer for those who flunked algebra
 
 [ZK whiteboard sessions by ZK Hack](https://zkhack.dev/whiteboard/):
@@ -94,12 +94,13 @@ More complete curated list of implementations and scientific resources:
 * [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node) ⭐ 209 | 🐛 4 | 🌐 Go | 📅 2023-05-21
 * [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion) ⭐ 91 | 🐛 9 | 🌐 TeX | 📅 2021-12-01
 * [ZK Sync](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58) by [Matter Labs](https://matter-labs.io)
-  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,922 | 🐛 106 | 🌐 Rust | 📅 2026-05-08
+  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,923 | 🐛 106 | 🌐 Rust | 📅 2026-05-08
   * [ZK SDK](https://zksync.io)
 * [Dark Forest: zkSNARK space warfare strategy game](https://zkga.me/)
 
 ### Other blockchains
 
+* [Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions](https://github.com/valida-xyz/valida) ⭐ 344 | 🐛 49 | 🌐 Rust | 📅 2026-04-27
 * [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
   * [Community Chat](https://discord.com/invite/zcash)
   * [Forums](https://forum.zcashcommunity.com)
@@ -116,12 +117,11 @@ More complete curated list of implementations and scientific resources:
   * [YouTube Channel](https://www.youtube.com/@ironfishnetwork)
 * [succinct: Write ZKPs with Rust using SP1, a performant, open-source zkVM and generate proofs in 1-click on Succinct’s decentralized prover network](https://succinct.xyz/)
   * [document](https://succinctlabs.github.io/sp1/)
-* [Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions](https://github.com/valida-xyz/valida) ⭐ 344 | 🐛 49 | 🌐 Rust | 📅 2026-04-27
 * [Nexus zkVM:  Nexus is a modular, extensible, open-source, highly-parallelized, prover-optimized, contributor-friendly, zkVM written in Rust, focused on performance and security.](https://nexus.xyz/)
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,257 | 🐛 41 | 🌐 Circom | 📅 2026-08-23
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,258 | 🐛 43 | 🌐 Circom | 📅 2026-08-24
 * [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,081 | 🐛 63 | 🌐 TypeScript | 📅 2026-07-08
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
@@ -143,13 +143,13 @@ More complete curated list of implementations and scientific resources:
 
 ## Bulletproofs
 
-* [Introduction and collection of resources](https://crypto.stanford.edu/bulletproofs/)
 * [From Zero (Knowledge) to Bulletproofs](https://github.com/AdamISZ/from0k2bp) ⭐ 171 | 🐛 6 | 🌐 TeX | 📅 2023-02-16 - a long and very nice gradual explanation
+* [Introduction and collection of resources](https://crypto.stanford.edu/bulletproofs/)
 * [Bulletproofs](http://sikoba.com/docs/SKOR_DK_Bulletproofs_201905.pdf) - succinct and complete description of the protocol
 
 ### Try
 
-* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,516 | 🐛 152 | 🌐 C | 📅 2026-08-03
+* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,518 | 🐛 152 | 🌐 C | 📅 2026-08-03
 * [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,128 | 🐛 51 | 🌐 Rust | 📅 2024-07-23
 * [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs) ⭐ 554 | 🐛 6 | 🌐 Haskell | 📅 2022-12-25
 
@@ -165,9 +165,9 @@ More complete curated list of implementations and scientific resources:
 
 Get started:
 
+* [BabySNARK- The simplest possible SNARK for NP. You know, for kids!](https://github.com/initc3/babySNARK) ⭐ 242 | 🐛 10 | 🌐 Python | 📅 2024-05-22
 * [Introduction to zk-SNARKs with examples](https://consensys.io/blog/introduction-to-zk-snarks)
 * [What are zk-SNARKs (Zcash blog)](https://z.cash/technology/zksnarks)
-* [BabySNARK- The simplest possible SNARK for NP. You know, for kids!](https://github.com/initc3/babySNARK) ⭐ 242 | 🐛 10 | 🌐 Python | 📅 2024-05-22
 * [The MoonMath Manual to zk-SNARKs (A free learning resource for beginners to experts)](https://leastauthority.com/community-matters/moonmath-manual/)
 * [Ronkathon: Learn Cryptography from First Principles](https://pluto.xyz/blog/ronkathon-learn-cryptography-from-first-principles)
 
@@ -207,9 +207,9 @@ Vitalik Buterin's blog series on SNARKs:
 
 Protocol descriptions:
 
+* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 304 | 🐛 326 | 🌐 TeX | 📅 2026-08-23 (very useful as detailed cheat-sheet of all cryptography used)
 * [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 * [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
-* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 304 | 🐛 327 | 🌐 TeX | 📅 2026-08-20 (very useful as detailed cheat-sheet of all cryptography used)
 
 OxPARC learning group:
 
@@ -226,7 +226,7 @@ OxPARC learning group:
 * [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,731 | 🐛 89 | 🌐 Go | 📅 2026-08-20
 * [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,126 | 🐛 43 | 🌐 Rust | 📅 2026-02-25
   * [demo circuit](https://github.com/ebfull/bellman-demo) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2018-09-26
-* [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs) ⭐ 605 | 🐛 248 | 🌐 TypeScript | 📅 2026-08-20
+* [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs) ⭐ 605 | 🐛 247 | 🌐 TypeScript | 📅 2026-08-20
 * [snarky (Ocaml, from O(1) labs, team behind Mina Protocol)](https://github.com/o1-labs/snarky) ⭐ 506 | 🐛 11 | 🌐 OCaml | 📅 2026-08-05
 * [circom and snarkjs tutorial](https://github.com/iden3/circom_old/blob/master/TUTORIAL.md) ⚠️ Archived
   * [A circuit and zk-snark implement using Circom and SnarkJS by Luozhu](https://github.com/LuozhuZhang/zkps-circuit-snark) ⭐ 50 | 🐛 0 | 🌐 Solidity | 📅 2022-12-18
@@ -255,9 +255,9 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 
 ### Sonic
 
+* [Sonic MPC implementation by Matter Labs](https://github.com/matter-labs/alpha_line) ⭐ 23 | 🐛 0 | 🌐 Rust | 📅 2019-02-03
 * [Introducing Sonic: A Practical zk-SNARK with a Nearly Trustless Setup](https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/)
 * [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updateable Structured Reference Strings](https://eprint.iacr.org/2019/099)
-* [Sonic MPC implementation by Matter Labs](https://github.com/matter-labs/alpha_line) ⭐ 23 | 🐛 0 | 🌐 Rust | 📅 2019-02-03
 
 ### PLONK
 
@@ -305,7 +305,7 @@ Vitalik Buterin's blog series on STARKs:
 Academic resources:
 
 * [The STARK paper](https://eprint.iacr.org/2018/046.pdf)
-* [libstark implementation](https://github.com/elibensasson/libSTARK) ⭐ 560 | 🐛 20 | 🌐 C++ | 📅 2023-03-24
+* [libstark implementation](https://github.com/elibensasson/libSTARK) ⭐ 559 | 🐛 20 | 🌐 C++ | 📅 2023-03-24
 
 More resources available at [starkware.co](https://www.starkware.co)
 
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
