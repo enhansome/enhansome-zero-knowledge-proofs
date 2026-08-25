@@ -167,7 +167,7 @@
                 "archived": false,
                 "id": 669466632,
                 "language": "Circom",
-                "last_commit": "2026-08-24T14:19:02Z",
+                "last_commit": "2026-08-25T16:59:23Z",
                 "owner": "selfxyz",
                 "repo": "self",
                 "stars": 1259
@@ -258,7 +258,7 @@
                 "last_commit": "2024-07-23T19:30:43Z",
                 "owner": "dalek-cryptography",
                 "repo": "bulletproofs",
-                "stars": 1128
+                "stars": 1129
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2025-06-12T22:39:48Z",
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1929
+                "stars": 1930
               }
             },
             {
@@ -415,7 +415,7 @@
                 "last_commit": "2026-02-25T09:50:29Z",
                 "owner": "zkcrypto",
                 "repo": "bellman",
-                "stars": 1126
+                "stars": 1127
               }
             },
             {
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:47:46.283Z",
+    "last_updated": "2026-08-25T20:56:31.107Z",
     "original_repository": "matter-labs/awesome-zero-knowledge-proofs",
     "original_repository_id": 156949882,
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
