@@ -185,7 +185,7 @@
                 "last_commit": "2026-07-08T17:43:36Z",
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1081
+                "stars": 1082
               }
             },
             {
@@ -243,7 +243,7 @@
                 "last_commit": "2026-08-03T02:33:49Z",
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1519
+                "stars": 1522
               }
             },
             {
@@ -258,7 +258,7 @@
                 "last_commit": "2024-07-23T19:30:43Z",
                 "owner": "dalek-cryptography",
                 "repo": "bulletproofs",
-                "stars": 1129
+                "stars": 1130
               }
             },
             {
@@ -313,7 +313,7 @@
                 "archived": false,
                 "id": 47279130,
                 "language": "TeX",
-                "last_commit": "2026-08-24T15:22:48Z",
+                "last_commit": "2026-08-25T21:26:01Z",
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 305
@@ -354,7 +354,7 @@
                 "last_commit": "2025-06-12T22:39:48Z",
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1930
+                "stars": 1931
               }
             },
             {
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:56:31.107Z",
+    "last_updated": "2026-08-26T23:58:48.740Z",
     "original_repository": "matter-labs/awesome-zero-knowledge-proofs",
     "original_repository_id": 156949882,
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
