@@ -124,7 +124,7 @@
                     "last_commit": "2026-05-08T09:04:17Z",
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4923
+                    "stars": 4924
                   }
                 }
               ]
@@ -689,9 +689,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:58:48.740Z",
-    "original_repository": "matter-labs/awesome-zero-knowledge-proofs",
-    "original_repository_id": 156949882,
+    "last_updated": "2026-08-27T12:15:25.730Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 156949882,
+      "language": null,
+      "last_commit": "2026-01-23T15:01:47Z",
+      "owner": "matter-labs",
+      "repo": "awesome-zero-knowledge-proofs",
+      "stars": 5806
+    },
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
     "enhanced_repository": "enhansome/enhansome-zero-knowledge-proofs",
     "enhanced_repository_description": null,

@@ -94,7 +94,7 @@ More complete curated list of implementations and scientific resources:
 * [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node) ⭐ 209 | 🐛 4 | 🌐 Go | 📅 2023-05-21
 * [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion) ⭐ 91 | 🐛 9 | 🌐 TeX | 📅 2021-12-01
 * [ZK Sync](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58) by [Matter Labs](https://matter-labs.io)
-  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,923 | 🐛 106 | 🌐 Rust | 📅 2026-05-08
+  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,924 | 🐛 106 | 🌐 Rust | 📅 2026-05-08
   * [ZK SDK](https://zksync.io)
 * [Dark Forest: zkSNARK space warfare strategy game](https://zkga.me/)
 
@@ -149,7 +149,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Try
 
-* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,522 | 🐛 152 | 🌐 C | 📅 2026-08-03
+* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,522 | 🐛 153 | 🌐 C | 📅 2026-08-03
 * [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,130 | 🐛 51 | 🌐 Rust | 📅 2024-07-23
 * [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs) ⭐ 554 | 🐛 6 | 🌐 Haskell | 📅 2022-12-25
 
@@ -305,7 +305,7 @@ Vitalik Buterin's blog series on STARKs:
 Academic resources:
 
 * [The STARK paper](https://eprint.iacr.org/2018/046.pdf)
-* [libstark implementation](https://github.com/elibensasson/libSTARK) ⭐ 559 | 🐛 20 | 🌐 C++ | 📅 2023-03-24
+* [libstark implementation](https://github.com/elibensasson/libSTARK) ⭐ 560 | 🐛 20 | 🌐 C++ | 📅 2023-03-24
 
 More resources available at [starkware.co](https://www.starkware.co)
 
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
