@@ -16,7 +16,8 @@
             "owner": "baro77",
             "repo": "ZKbasicsCS",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T04:25:50.104Z"
         }
       ],
       "title": "General introduction"
@@ -37,7 +38,8 @@
             "owner": "Mikerah",
             "repo": "awesome-privacy-on-blockchains",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-28T04:25:50.104Z"
         }
       ],
       "title": "Use cases"
@@ -60,7 +62,8 @@
                 "owner": "barryWhiteHat",
                 "repo": "roll_up",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -75,7 +78,8 @@
                 "owner": "Loopring",
                 "repo": "protocols",
                 "stars": 335
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -90,7 +94,8 @@
                 "owner": "sec-bit",
                 "repo": "zkPoD-node",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -105,7 +110,8 @@
                 "owner": "gnosis",
                 "repo": "dex-research",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "group",
@@ -125,7 +131,8 @@
                     "owner": "matter-labs",
                     "repo": "zksync",
                     "stars": 4924
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:25:50.104Z"
                 }
               ]
             }
@@ -149,7 +156,8 @@
                 "owner": "valida-xyz",
                 "repo": "valida",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             }
           ],
           "description": null,
@@ -170,8 +178,9 @@
                 "last_commit": "2026-08-25T16:59:23Z",
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1259
-              }
+                "stars": 1260
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -185,8 +194,9 @@
                 "last_commit": "2026-07-08T17:43:36Z",
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1082
-              }
+                "stars": 1083
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -201,7 +211,8 @@
                 "owner": "worldcoin",
                 "repo": "awesome-zkml",
                 "stars": 1054
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             }
           ],
           "description": null,
@@ -227,7 +238,8 @@
             "owner": "AdamISZ",
             "repo": "from0k2bp",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T04:25:50.104Z"
         },
         {
           "children": [
@@ -244,7 +256,8 @@
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
                 "stars": 1522
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -259,7 +272,8 @@
                 "owner": "dalek-cryptography",
                 "repo": "bulletproofs",
                 "stars": 1130
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -274,7 +288,8 @@
                 "owner": "sdiehl",
                 "repo": "bulletproofs",
                 "stars": 554
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             }
           ],
           "description": null,
@@ -302,7 +317,8 @@
                 "owner": "initc3",
                 "repo": "babySNARK",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -317,7 +333,8 @@
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 305
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             }
           ],
           "description": "Get started:\nWhy and How zk-SNARK Works:\nZkStudyClub:\nElectric Coin blog series:\nVitalik Buterin's blog series on SNARKs:\nProtocol descriptions:\nOxPARC learning group:",
@@ -344,7 +361,8 @@
                     "owner": "coder5876",
                     "repo": "libsnark-tutorial",
                     "stars": 188
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:25:50.104Z"
                 }
               ],
               "repo_info": {
@@ -354,8 +372,9 @@
                 "last_commit": "2025-06-12T22:39:48Z",
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1931
-              }
+                "stars": 1932
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -370,7 +389,8 @@
                 "owner": "Zokrates",
                 "repo": "ZoKrates",
                 "stars": 1872
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -385,7 +405,8 @@
                 "owner": "Consensys",
                 "repo": "gnark",
                 "stars": 1731
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -405,7 +426,8 @@
                     "owner": "ebfull",
                     "repo": "bellman-demo",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:25:50.104Z"
                 }
               ],
               "repo_info": {
@@ -415,8 +437,9 @@
                 "last_commit": "2026-02-25T09:50:29Z",
                 "owner": "zkcrypto",
                 "repo": "bellman",
-                "stars": 1127
-              }
+                "stars": 1128
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -427,11 +450,12 @@
                 "archived": false,
                 "id": 368694740,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T22:20:27Z",
+                "last_commit": "2026-08-27T18:31:28Z",
                 "owner": "o1-labs",
                 "repo": "o1js",
-                "stars": 605
-              }
+                "stars": 606
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -446,7 +470,8 @@
                 "owner": "o1-labs",
                 "repo": "snarky",
                 "stars": 506
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -466,7 +491,8 @@
                     "owner": "LuozhuZhang",
                     "repo": "zkps-circuit-snark",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:25:50.104Z"
                 },
                 {
                   "node_type": "item",
@@ -481,7 +507,8 @@
                     "owner": "therealyingtong",
                     "repo": "roll_up_circom_tutorial",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:25:50.104Z"
                 }
               ],
               "repo_info": {
@@ -492,7 +519,8 @@
                 "owner": "iden3",
                 "repo": "circom_old",
                 "stars": 477
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -507,7 +535,8 @@
                 "owner": "pluto",
                 "repo": "ronkathon",
                 "stars": 347
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -522,7 +551,8 @@
                 "owner": "HarryR",
                 "repo": "ethsnarks",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -537,7 +567,8 @@
                 "owner": "akosba",
                 "repo": "jsnark",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             }
           ],
           "description": null,
@@ -559,7 +590,8 @@
                 "owner": "scipr-lab",
                 "repo": "dizk",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -574,7 +606,8 @@
                 "owner": "matter-labs-archive",
                 "repo": "snarkyGPU",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             }
           ],
           "description": null,
@@ -601,7 +634,8 @@
                     "owner": "FiloSottile",
                     "repo": "powersoftau",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:25:50.104Z"
                 }
               ],
               "repo_info": {
@@ -612,7 +646,8 @@
                 "owner": "ebfull",
                 "repo": "powersoftau",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             },
             {
               "node_type": "item",
@@ -627,7 +662,8 @@
                 "owner": "zcash",
                 "repo": "sapling-mpc",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             }
           ],
           "description": null,
@@ -655,7 +691,8 @@
                 "owner": "matter-labs-archive",
                 "repo": "alpha_line",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             }
           ],
           "description": null,
@@ -677,7 +714,8 @@
                 "owner": "fluidex",
                 "repo": "awesome-plonk",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T04:25:50.104Z"
             }
           ],
           "description": "(This is a recent development. Contributions are welcome!)",
@@ -689,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:15:25.730Z",
+    "last_updated": "2026-08-28T04:25:50.104Z",
     "original_repository_info": {
       "archived": false,
       "id": 156949882,
@@ -697,7 +735,7 @@
       "last_commit": "2026-01-23T15:01:47Z",
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5806
+      "stars": 5814
     },
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
     "enhanced_repository": "enhansome/enhansome-zero-knowledge-proofs",
