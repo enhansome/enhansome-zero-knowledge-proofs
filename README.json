@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zero-Knowledge Proofs \"for (not too much :wink: ) dummies\"",
+            "homepage": "https://www.bybaro.it/tss",
             "id": 505420667,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-24T17:47:07Z",
+            "open_issues": 0,
             "owner": "baro77",
             "repo": "ZKbasicsCS",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "argument",
+              "completeness",
+              "fiat-shamir",
+              "nizk",
+              "proof",
+              "proof-of-knowledge",
+              "prover",
+              "simulator",
+              "soundness",
+              "verifier",
+              "zero-knowledge",
+              "zkp"
+            ]
           },
           "first_seen": "2026-08-28T04:25:50.104Z"
         }
@@ -32,12 +50,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of privacy on blockchains resources",
+            "homepage": null,
             "id": 197427230,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-11-04T17:37:06Z",
+            "open_issues": 6,
             "owner": "Mikerah",
             "repo": "awesome-privacy-on-blockchains",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "anonymity",
+              "awesome-list",
+              "bitcoin",
+              "blockchain",
+              "confidential",
+              "cryptocurrency",
+              "ethereum",
+              "grin",
+              "monero",
+              "p2p",
+              "privacy",
+              "zcash"
+            ]
           },
           "first_seen": "2026-08-28T04:25:50.104Z"
         }
@@ -56,12 +92,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "scale ethereum with snarks",
+                "homepage": null,
                 "id": 147513646,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-02-27T06:58:55Z",
+                "open_issues": 11,
                 "owner": "barryWhiteHat",
                 "repo": "roll_up",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -72,12 +113,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A zkRollup DEX & Payment Protocol",
+                "homepage": "https://loopring.org",
                 "id": 163461138,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2024-10-25T02:03:29Z",
+                "open_issues": 64,
                 "owner": "Loopring",
                 "repo": "protocols",
-                "stars": 335
+                "stars": 335,
+                "topics": [
+                  "blockchain",
+                  "dex",
+                  "loopring",
+                  "lrc",
+                  "oedax",
+                  "smartwallet",
+                  "zero-knowledge",
+                  "zkrollup",
+                  "zksnarks"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -88,12 +144,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "zkPoD: A decentralized system for perfect fair data exchange",
+                "homepage": null,
                 "id": 193872128,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-21T08:07:16Z",
+                "open_issues": 4,
                 "owner": "sec-bit",
                 "repo": "zkPoD-node",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "confidentiality",
+                  "data-exchange",
+                  "decentralized-internet",
+                  "fair-exchange",
+                  "privacy",
+                  "zero-knowledge-proofs"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -104,12 +172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of research papers written within Gnosis",
+                "homepage": null,
                 "id": 139961581,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2021-12-01T20:13:07Z",
+                "open_issues": 9,
                 "owner": "gnosis",
                 "repo": "dex-research",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -125,12 +198,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "zkSync: trustless scaling and privacy engine for Ethereum",
+                    "homepage": "https://zksync.io",
                     "id": 189174934,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-08T09:04:17Z",
+                    "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4924
+                    "stars": 4924,
+                    "topics": [
+                      "team-core"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:25:50.104Z"
                 }
@@ -150,12 +230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A STARK-based VM focused on code reuse, performance, and modularity",
+                "homepage": null,
                 "id": 625046307,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-27T06:52:02Z",
+                "open_issues": 49,
                 "owner": "valida-xyz",
                 "repo": "valida",
-                "stars": 345
+                "stars": 345,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             }
@@ -173,12 +258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prove your self",
+                "homepage": "https://self.xyz",
                 "id": 669466632,
                 "language": "Circom",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T22:11:32Z",
+                "open_issues": 37,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1260
+                "stars": 1260,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -189,12 +279,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A zero-knowledge protocol for anonymous interactions.",
+                "homepage": "https://semaphore.pse.dev",
                 "id": 179699830,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-08T17:43:36Z",
+                "open_issues": 63,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1083
+                "stars": 1083,
+                "topics": [
+                  "circom",
+                  "ethereum",
+                  "hacktoberfest",
+                  "javascript",
+                  "monorepo",
+                  "proof-of-membership",
+                  "semaphore",
+                  "solidity",
+                  "typescript",
+                  "zero-knowledge",
+                  "zero-knowledge-proofs",
+                  "zk-snarks"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -205,12 +313,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "awesome-zkml repository",
+                "homepage": null,
                 "id": 538595299,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-09-23T09:11:44Z",
+                "open_issues": 26,
                 "owner": "worldcoin",
                 "repo": "awesome-zkml",
-                "stars": 1054
+                "stars": 1054,
+                "topics": [
+                  "managed-by-terraform",
+                  "team-crypto"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             }
@@ -232,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "From Zero (Knowledge) to Bulletproofs - writeup",
+            "homepage": null,
             "id": 124123331,
             "language": "TeX",
+            "license": null,
             "last_commit": "2023-02-16T13:31:09Z",
+            "open_issues": 6,
             "owner": "AdamISZ",
             "repo": "from0k2bp",
-            "stars": 171
+            "stars": 171,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:25:50.104Z"
         },
@@ -250,12 +371,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library",
+                "homepage": "https://www.tongsuo.net",
                 "id": 290136001,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T02:33:49Z",
+                "open_issues": 153,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1522
+                "stars": 1522,
+                "topics": [
+                  "chinese-ciphers",
+                  "cryptography",
+                  "pki",
+                  "security",
+                  "tls"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -266,12 +398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A pure-Rust implementation of Bulletproofs using Ristretto.",
+                "homepage": null,
                 "id": 119915731,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-07-23T19:30:43Z",
+                "open_issues": 51,
                 "owner": "dalek-cryptography",
                 "repo": "bulletproofs",
-                "stars": 1130
+                "stars": 1130,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -282,12 +419,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bulletproofs are short non-interactive zero-knowledge proofs that require no trusted setup ",
+                "homepage": null,
                 "id": 140532513,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-12-25T10:16:13Z",
+                "open_issues": 6,
                 "owner": "sdiehl",
                 "repo": "bulletproofs",
-                "stars": 554
+                "stars": 554,
+                "topics": [
+                  "bulletproofs",
+                  "cryptography",
+                  "elliptic-curves",
+                  "pedersen-commitment",
+                  "range-proofs",
+                  "sigma",
+                  "zero-knowledge",
+                  "zk-snarks",
+                  "zksnarks"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             }
@@ -311,12 +463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Baby SNARK (do do dodo dodo)",
+                "homepage": null,
                 "id": 227760333,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-22T16:04:13Z",
+                "open_issues": 10,
                 "owner": "initc3",
                 "repo": "babySNARK",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -327,12 +484,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zcash Improvement Proposals",
+                "homepage": "https://zips.z.cash",
                 "id": 47279130,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2026-08-25T21:26:01Z",
+                "open_issues": 327,
                 "owner": "zcash",
                 "repo": "zips",
-                "stars": 305
+                "stars": 305,
+                "topics": [
+                  "cryptocurrency",
+                  "cryptography",
+                  "specifications",
+                  "zcash"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             }
@@ -355,24 +522,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tutorial and example code for using libsnark",
+                    "homepage": null,
                     "id": 137278135,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2021-05-17T22:04:01Z",
+                    "open_issues": 5,
                     "owner": "coder5876",
                     "repo": "libsnark-tutorial",
-                    "stars": 188
+                    "stars": 188,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:25:50.104Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "C++ library for zkSNARKs",
+                "homepage": null,
                 "id": 20418463,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-12T22:39:48Z",
+                "open_issues": 130,
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1932
+                "stars": 1932,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -383,12 +560,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolbox for zkSNARKs on Ethereum",
+                "homepage": "https://zokrates.github.io",
                 "id": 107952203,
                 "language": "Rust",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-08-01T16:50:35Z",
+                "open_issues": 115,
                 "owner": "Zokrates",
                 "repo": "ZoKrates",
-                "stars": 1871
+                "stars": 1871,
+                "topics": [
+                  "ethereum",
+                  "language",
+                  "snark",
+                  "verifiable-computation",
+                  "zero-knowledge",
+                  "zksnarks"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -399,12 +588,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license",
+                "homepage": "https://play.gnark.io",
                 "id": 242781085,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T18:19:35Z",
+                "open_issues": 88,
                 "owner": "Consensys",
                 "repo": "gnark",
-                "stars": 1731
+                "stars": 1731,
+                "topics": [
+                  "gnark",
+                  "golang",
+                  "plonk",
+                  "r1cs",
+                  "zk-rollup",
+                  "zk-snarks",
+                  "zkevm",
+                  "zkp",
+                  "zksnark"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -420,24 +624,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 150466978,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2018-09-26T20:01:26Z",
+                    "open_issues": 1,
                     "owner": "ebfull",
                     "repo": "bellman-demo",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:25:50.104Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "zk-SNARK library.",
+                "homepage": null,
                 "id": 48537264,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-25T09:50:29Z",
+                "open_issues": 43,
                 "owner": "zkcrypto",
                 "repo": "bellman",
-                "stars": 1128
+                "stars": 1128,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -448,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript framework for zk-SNARKs and zkApps",
+                "homepage": "https://www.o1js.dev/",
                 "id": 368694740,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T18:31:28Z",
+                "open_issues": 248,
                 "owner": "o1-labs",
                 "repo": "o1js",
-                "stars": 606
+                "stars": 606,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -464,12 +683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCaml DSL for verifiable computation",
+                "homepage": "https://o1-labs.github.io/snarky/",
                 "id": 123514036,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2026-08-05T07:16:35Z",
+                "open_issues": 11,
                 "owner": "o1-labs",
                 "repo": "snarky",
-                "stars": 506
+                "stars": 506,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -485,12 +709,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A zk-SNARK implementation",
+                    "homepage": null,
                     "id": 481629020,
                     "language": "Solidity",
+                    "license": null,
                     "last_commit": "2022-12-18T18:03:55Z",
+                    "open_issues": 0,
                     "owner": "LuozhuZhang",
                     "repo": "zkps-circuit-snark",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": [
+                      "circom",
+                      "cryptography",
+                      "decentralized",
+                      "future",
+                      "snarkjs",
+                      "solidity",
+                      "zero-knowledge",
+                      "zero-knowledge-proofs",
+                      "zk-proof",
+                      "zk-rollup",
+                      "zk-snarks"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:25:50.104Z"
                 },
@@ -501,24 +742,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains a tutorial on how to build roll_up with Circom",
+                    "homepage": null,
                     "id": 174232600,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2019-07-20T16:21:29Z",
+                    "open_issues": 0,
                     "owner": "therealyingtong",
                     "repo": "roll_up_circom_tutorial",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:25:50.104Z"
                 }
               ],
               "repo_info": {
                 "archived": true,
+                "description": "Circuit compiler for zkSNARKs",
+                "homepage": null,
                 "id": 144109258,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-29T01:41:29Z",
+                "open_issues": 46,
                 "owner": "iden3",
                 "repo": "circom_old",
-                "stars": 477
+                "stars": 477,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -529,12 +780,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cryptography Educational Foundations",
+                "homepage": "https://ronkathon.pluto.xyz",
                 "id": 794674804,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-24T23:30:02Z",
+                "open_issues": 45,
                 "owner": "pluto",
                 "repo": "ronkathon",
-                "stars": 347
+                "stars": 347,
+                "topics": [
+                  "cryptography",
+                  "mathematics",
+                  "rustlang",
+                  "zero-knowledge"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -545,12 +806,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop",
+                "homepage": null,
                 "id": 140735217,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-10-28T12:41:01Z",
+                "open_issues": 48,
                 "owner": "HarryR",
                 "repo": "ethsnarks",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "algorithms",
+                  "cplusplus-11",
+                  "ethereum",
+                  "pinocchio",
+                  "python",
+                  "research",
+                  "sdk",
+                  "solidity",
+                  "zk-snarks"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -561,12 +837,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java library for zk-SNARK circuits",
+                "homepage": null,
                 "id": 47721653,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2022-12-17T23:05:44Z",
+                "open_issues": 7,
                 "owner": "akosba",
                 "repo": "jsnark",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             }
@@ -584,12 +865,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java library for distributed zero knowledge proof systems",
+                "homepage": null,
                 "id": 141190586,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-13T19:55:42Z",
+                "open_issues": 9,
                 "owner": "scipr-lab",
                 "repo": "dizk",
-                "stars": 243
+                "stars": 243,
+                "topics": [
+                  "cryptography",
+                  "distributed-computing",
+                  "zero-knowledge-proofs",
+                  "zksnarks"
+                ]
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -600,12 +891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Research repository for distributed GPU based zkSNARKs prover",
+                "homepage": null,
                 "id": 151385551,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-10-11T16:24:08Z",
+                "open_issues": 1,
                 "owner": "matter-labs-archive",
                 "repo": "snarkyGPU",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             }
@@ -628,24 +924,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An independent implementation of the Powers of Tau MPC ceremony.",
+                    "homepage": null,
                     "id": 117164475,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2018-03-13T18:39:07Z",
+                    "open_issues": 2,
                     "owner": "FiloSottile",
                     "repo": "powersoftau",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": [
+                      "cryptography",
+                      "mpc",
+                      "zcash"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:25:50.104Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Communal zk-SNARK MPC for Public Parameters",
+                "homepage": null,
                 "id": 109015945,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2021-06-01T14:07:05Z",
+                "open_issues": 9,
                 "owner": "ebfull",
                 "repo": "powersoftau",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -656,12 +966,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-party computation for Zcash's \"Sapling\" zk-SNARK public parameters",
+                "homepage": "https://z.cash/",
                 "id": 128690522,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-22T19:00:30Z",
+                "open_issues": 2,
                 "owner": "zcash",
                 "repo": "sapling-mpc",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             }
@@ -685,12 +1000,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MPC implementation for a structured reference string (SRS) generation for SONIC proof system",
+                "homepage": "https://thematter.io",
                 "id": 168801397,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2019-02-03T06:40:54Z",
+                "open_issues": 0,
                 "owner": "matter-labs-archive",
                 "repo": "alpha_line",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             }
@@ -708,12 +1028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome things related to plonk proof system",
+                "homepage": null,
                 "id": 316892859,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-08-17T20:01:50Z",
+                "open_issues": 3,
                 "owner": "fluidex",
                 "repo": "awesome-plonk",
-                "stars": 243
+                "stars": 243,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             }
@@ -727,15 +1052,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:53:13.037Z",
+    "last_updated": "2026-08-29T04:15:08.227Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
+      "homepage": null,
       "id": 156949882,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-01-23T15:01:47Z",
+      "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5820
+      "stars": 5820,
+      "topics": [
+        "explaining-snarks",
+        "knowledge-proofs",
+        "snark",
+        "team-crypto",
+        "zk-snarks"
+      ]
     },
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
     "enhanced_repository": "enhansome/enhansome-zero-knowledge-proofs",
