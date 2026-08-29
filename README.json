@@ -548,7 +548,7 @@
                 "open_issues": 130,
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1932,
+                "stars": 1933,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -597,7 +597,7 @@
                 "open_issues": 88,
                 "owner": "Consensys",
                 "repo": "gnark",
-                "stars": 1731,
+                "stars": 1730,
                 "topics": [
                   "gnark",
                   "golang",
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:08.227Z",
+    "last_updated": "2026-08-29T22:44:54.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1064,7 +1064,7 @@
       "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5820,
+      "stars": 5827,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",

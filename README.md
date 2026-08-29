@@ -218,12 +218,12 @@ OxPARC learning group:
 
 ### Try
 
-* [libsnark (C++)](https://github.com/scipr-lab/libsnark) ⭐ 1,932 | 🐛 130 | 🌐 C++ | 📅 2025-06-12
+* [libsnark (C++)](https://github.com/scipr-lab/libsnark) ⭐ 1,933 | 🐛 130 | 🌐 C++ | 📅 2025-06-12
   * [great tutorial](https://github.com/christianlundkvist/libsnark-tutorial) ⭐ 188 | 🐛 5 | 🌐 C++ | 📅 2021-05-17
 * [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates) ⭐ 1,871 | 🐛 115 | 🌐 Rust | 📅 2024-08-01
   * [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
   * [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
-* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,731 | 🐛 88 | 🌐 Go | 📅 2026-08-24
+* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,730 | 🐛 88 | 🌐 Go | 📅 2026-08-24
 * [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,128 | 🐛 43 | 🌐 Rust | 📅 2026-02-25
   * [demo circuit](https://github.com/ebfull/bellman-demo) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2018-09-26
 * [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs) ⭐ 606 | 🐛 248 | 🌐 TypeScript | 📅 2026-08-27
