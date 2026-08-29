@@ -155,7 +155,7 @@
                 "last_commit": "2026-04-27T06:52:02Z",
                 "owner": "valida-xyz",
                 "repo": "valida",
-                "stars": 344
+                "stars": 345
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             }
@@ -175,7 +175,7 @@
                 "archived": false,
                 "id": 669466632,
                 "language": "Circom",
-                "last_commit": "2026-08-25T16:59:23Z",
+                "last_commit": "2026-08-28T22:11:32Z",
                 "owner": "selfxyz",
                 "repo": "self",
                 "stars": 1260
@@ -388,7 +388,7 @@
                 "last_commit": "2024-08-01T16:50:35Z",
                 "owner": "Zokrates",
                 "repo": "ZoKrates",
-                "stars": 1872
+                "stars": 1871
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
             },
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:25:50.104Z",
+    "last_updated": "2026-08-29T02:53:13.037Z",
     "original_repository_info": {
       "archived": false,
       "id": 156949882,
@@ -735,7 +735,7 @@
       "last_commit": "2026-01-23T15:01:47Z",
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5814
+      "stars": 5820
     },
     "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
     "enhanced_repository": "enhansome/enhansome-zero-knowledge-proofs",

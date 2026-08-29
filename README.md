@@ -100,7 +100,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Other blockchains
 
-* [Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions](https://github.com/valida-xyz/valida) ⭐ 344 | 🐛 49 | 🌐 Rust | 📅 2026-04-27
+* [Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions](https://github.com/valida-xyz/valida) ⭐ 345 | 🐛 49 | 🌐 Rust | 📅 2026-04-27
 * [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
   * [Community Chat](https://discord.com/invite/zcash)
   * [Forums](https://forum.zcashcommunity.com)
@@ -121,7 +121,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,260 | 🐛 37 | 🌐 Circom | 📅 2026-08-25
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,260 | 🐛 37 | 🌐 Circom | 📅 2026-08-28
 * [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,083 | 🐛 63 | 🌐 TypeScript | 📅 2026-07-08
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
@@ -220,7 +220,7 @@ OxPARC learning group:
 
 * [libsnark (C++)](https://github.com/scipr-lab/libsnark) ⭐ 1,932 | 🐛 130 | 🌐 C++ | 📅 2025-06-12
   * [great tutorial](https://github.com/christianlundkvist/libsnark-tutorial) ⭐ 188 | 🐛 5 | 🌐 C++ | 📅 2021-05-17
-* [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates) ⭐ 1,872 | 🐛 115 | 🌐 Rust | 📅 2024-08-01
+* [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates) ⭐ 1,871 | 🐛 115 | 🌐 Rust | 📅 2024-08-01
   * [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
   * [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
 * [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,731 | 🐛 88 | 🌐 Go | 📅 2026-08-24
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
