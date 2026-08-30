@@ -207,7 +207,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4924,
+                    "stars": 4925,
                     "topics": [
                       "team-core"
                     ]
@@ -264,7 +264,7 @@
                 "language": "Circom",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T22:11:32Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "selfxyz",
                 "repo": "self",
                 "stars": 1260,
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:44:54.863Z",
+    "last_updated": "2026-08-30T22:53:28.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1064,7 +1064,7 @@
       "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5827,
+      "stars": 5832,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
