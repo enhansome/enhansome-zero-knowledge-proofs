@@ -267,7 +267,7 @@
                 "open_issues": 38,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1260,
+                "stars": 1259,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -380,7 +380,7 @@
                 "open_issues": 153,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1522,
+                "stars": 1523,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -489,8 +489,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-08-25T21:26:01Z",
-                "open_issues": 327,
+                "last_commit": "2026-09-01T21:16:33Z",
+                "open_issues": 326,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 305,
@@ -595,7 +595,7 @@
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T18:19:35Z",
                 "open_issues": 88,
-                "owner": "Consensys",
+                "owner": "Consensys-Incorporated",
                 "repo": "gnark",
                 "stars": 1731,
                 "topics": [
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:01:23.595Z",
+    "last_updated": "2026-09-01T22:44:44.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
