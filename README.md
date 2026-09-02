@@ -121,8 +121,8 @@ More complete curated list of implementations and scientific resources:
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,259 | 🐛 38 | 🌐 Circom | 📅 2026-08-28
-* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,083 | 🐛 63 | 🌐 TypeScript | 📅 2026-07-08
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,259 | 🐛 37 | 🌐 Circom | 📅 2026-08-28
+* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,082 | 🐛 63 | 🌐 TypeScript | 📅 2026-07-08
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
 * [Web-Proofs](https://zeroknowledge.fm/325-2/)
@@ -149,7 +149,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Try
 
-* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,523 | 🐛 153 | 🌐 C | 📅 2026-08-03
+* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,524 | 🐛 154 | 🌐 C | 📅 2026-08-03
 * [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,131 | 🐛 51 | 🌐 Rust | 📅 2024-07-23
 * [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs) ⭐ 554 | 🐛 6 | 🌐 Haskell | 📅 2022-12-25
 
@@ -207,7 +207,7 @@ Vitalik Buterin's blog series on SNARKs:
 
 Protocol descriptions:
 
-* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 305 | 🐛 326 | 🌐 TeX | 📅 2026-09-01 (very useful as detailed cheat-sheet of all cryptography used)
+* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 305 | 🐛 326 | 🌐 TeX | 📅 2026-09-02 (very useful as detailed cheat-sheet of all cryptography used)
 * [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 * [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

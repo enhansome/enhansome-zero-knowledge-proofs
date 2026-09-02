@@ -264,7 +264,7 @@
                 "language": "Circom",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T22:11:32Z",
-                "open_issues": 38,
+                "open_issues": 37,
                 "owner": "selfxyz",
                 "repo": "self",
                 "stars": 1259,
@@ -288,7 +288,7 @@
                 "open_issues": 63,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1083,
+                "stars": 1082,
                 "topics": [
                   "circom",
                   "ethereum",
@@ -377,10 +377,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-03T02:33:49Z",
-                "open_issues": 153,
+                "open_issues": 154,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1523,
+                "stars": 1524,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -489,7 +489,7 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-09-01T21:16:33Z",
+                "last_commit": "2026-09-02T04:09:03Z",
                 "open_issues": 326,
                 "owner": "zcash",
                 "repo": "zips",
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:44:44.053Z",
+    "last_updated": "2026-09-02T22:47:10.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1064,7 +1064,7 @@
       "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5832,
+      "stars": 5833,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
