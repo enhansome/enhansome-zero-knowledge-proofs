@@ -83,7 +83,7 @@ More complete curated list of implementations and scientific resources:
 
 ## Use cases
 
-* [Awesome Privacy on Blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) ⭐ 289 | 🐛 6 | 📅 2025-11-04
+* [Awesome Privacy on Blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) ⭐ 289 | 🐛 7 | 📅 2025-11-04
 
 ## Applications
 
@@ -94,7 +94,7 @@ More complete curated list of implementations and scientific resources:
 * [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node) ⭐ 209 | 🐛 4 | 🌐 Go | 📅 2023-05-21
 * [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion) ⭐ 91 | 🐛 9 | 🌐 TeX | 📅 2021-12-01
 * [ZK Sync](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58) by [Matter Labs](https://matter-labs.io)
-  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,926 | 🐛 106 | 🌐 Rust | 📅 2026-05-08
+  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,924 | 🐛 106 | 🌐 Rust | 📅 2026-05-08
   * [ZK SDK](https://zksync.io)
 * [Dark Forest: zkSNARK space warfare strategy game](https://zkga.me/)
 
@@ -121,7 +121,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,258 | 🐛 36 | 🌐 Circom | 📅 2026-09-03
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,258 | 🐛 34 | 🌐 Circom | 📅 2026-09-04
 * [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,083 | 🐛 63 | 🌐 TypeScript | 📅 2026-07-08
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
@@ -150,7 +150,7 @@ More complete curated list of implementations and scientific resources:
 ### Try
 
 * [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,525 | 🐛 154 | 🌐 C | 📅 2026-08-03
-* [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,131 | 🐛 51 | 🌐 Rust | 📅 2024-07-23
+* [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,132 | 🐛 51 | 🌐 Rust | 📅 2024-07-23
 * [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs) ⭐ 554 | 🐛 6 | 🌐 Haskell | 📅 2022-12-25
 
 ### Proof system implementations
@@ -207,7 +207,7 @@ Vitalik Buterin's blog series on SNARKs:
 
 Protocol descriptions:
 
-* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 305 | 🐛 323 | 🌐 TeX | 📅 2026-09-03 (very useful as detailed cheat-sheet of all cryptography used)
+* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 305 | 🐛 324 | 🌐 TeX | 📅 2026-09-04 (very useful as detailed cheat-sheet of all cryptography used)
 * [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 * [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
