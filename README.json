@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:29:05.716Z",
+    "last_updated": "2026-09-05T22:10:09.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1064,7 +1064,7 @@
       "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5835,
+      "stars": 5836,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
