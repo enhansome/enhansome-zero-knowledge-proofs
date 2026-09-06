@@ -122,7 +122,7 @@
                 "open_issues": 64,
                 "owner": "Loopring",
                 "repo": "protocols",
-                "stars": 335,
+                "stars": 334,
                 "topics": [
                   "blockchain",
                   "dex",
@@ -263,7 +263,7 @@
                 "id": 669466632,
                 "language": "Circom",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T22:14:12Z",
+                "last_commit": "2026-09-06T21:12:15Z",
                 "open_issues": 34,
                 "owner": "selfxyz",
                 "repo": "self",
@@ -288,7 +288,7 @@
                 "open_issues": 63,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1083,
+                "stars": 1082,
                 "topics": [
                   "circom",
                   "ethereum",
@@ -490,7 +490,7 @@
                 "language": "TeX",
                 "license": "MIT",
                 "last_commit": "2026-09-04T15:22:23Z",
-                "open_issues": 324,
+                "open_issues": 325,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 305,
@@ -548,7 +548,7 @@
                 "open_issues": 130,
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1933,
+                "stars": 1931,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -569,7 +569,7 @@
                 "open_issues": 115,
                 "owner": "Zokrates",
                 "repo": "ZoKrates",
-                "stars": 1871,
+                "stars": 1870,
                 "topics": [
                   "ethereum",
                   "language",
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:10:09.241Z",
+    "last_updated": "2026-09-06T22:14:04.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1064,7 +1064,7 @@
       "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5836,
+      "stars": 5838,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
