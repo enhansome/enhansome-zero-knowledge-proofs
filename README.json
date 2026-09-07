@@ -207,7 +207,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4924,
+                    "stars": 4923,
                     "topics": [
                       "team-core"
                     ]
@@ -376,8 +376,8 @@
                 "id": 290136001,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-03T02:33:49Z",
-                "open_issues": 154,
+                "last_commit": "2026-09-07T08:31:59Z",
+                "open_issues": 155,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
                 "stars": 1525,
@@ -407,7 +407,7 @@
                 "open_issues": 51,
                 "owner": "dalek-cryptography",
                 "repo": "bulletproofs",
-                "stars": 1132,
+                "stars": 1131,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -472,7 +472,7 @@
                 "open_issues": 10,
                 "owner": "initc3",
                 "repo": "babySNARK",
-                "stars": 242,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:14:04.809Z",
+    "last_updated": "2026-09-07T22:57:14.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1064,7 +1064,7 @@
       "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5838,
+      "stars": 5839,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
