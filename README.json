@@ -288,7 +288,7 @@
                 "open_issues": 63,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1083,
+                "stars": 1084,
                 "topics": [
                   "circom",
                   "ethereum",
@@ -647,7 +647,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-02-25T09:50:29Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "zkcrypto",
                 "repo": "bellman",
                 "stars": 1128,
@@ -667,7 +667,7 @@
                 "id": 368694740,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T15:33:11Z",
+                "last_commit": "2026-09-10T19:12:58Z",
                 "open_issues": 250,
                 "owner": "o1-labs",
                 "repo": "o1js",
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:41:33.109Z",
+    "last_updated": "2026-09-10T22:43:49.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1064,7 +1064,7 @@
       "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5839,
+      "stars": 5838,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
