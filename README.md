@@ -207,7 +207,7 @@ Vitalik Buterin's blog series on SNARKs:
 
 Protocol descriptions:
 
-* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 305 | 🐛 323 | 🌐 TeX | 📅 2026-09-08 (very useful as detailed cheat-sheet of all cryptography used)
+* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 306 | 🐛 323 | 🌐 TeX | 📅 2026-09-08 (very useful as detailed cheat-sheet of all cryptography used)
 * [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 * [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 
@@ -223,7 +223,7 @@ OxPARC learning group:
 * [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates) ⭐ 1,870 | 🐛 115 | 🌐 Rust | 📅 2024-08-01
   * [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
   * [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
-* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,733 | 🐛 90 | 🌐 Go | 📅 2026-09-09
+* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,734 | 🐛 88 | 🌐 Go | 📅 2026-09-12
 * [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,128 | 🐛 44 | 🌐 Rust | 📅 2026-02-25
   * [demo circuit](https://github.com/ebfull/bellman-demo) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2018-09-26
 * [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs) ⭐ 606 | 🐛 250 | 🌐 TypeScript | 📅 2026-09-10
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

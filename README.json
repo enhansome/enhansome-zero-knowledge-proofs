@@ -493,7 +493,7 @@
                 "open_issues": 323,
                 "owner": "zcash",
                 "repo": "zips",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "cryptocurrency",
                   "cryptography",
@@ -593,11 +593,11 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T19:05:39Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-12T09:39:45Z",
+                "open_issues": 88,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1733,
+                "stars": 1734,
                 "topics": [
                   "gnark",
                   "golang",
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T22:43:49.130Z",
+    "last_updated": "2026-09-12T22:28:55.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1064,7 +1064,7 @@
       "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5839,
+      "stars": 5840,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
