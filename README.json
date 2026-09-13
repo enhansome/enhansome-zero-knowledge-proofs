@@ -288,7 +288,7 @@
                 "open_issues": 63,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1084,
+                "stars": 1085,
                 "topics": [
                   "circom",
                   "ethereum",
@@ -593,11 +593,11 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T09:39:45Z",
-                "open_issues": 88,
+                "last_commit": "2026-09-13T21:47:48Z",
+                "open_issues": 89,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1734,
+                "stars": 1733,
                 "topics": [
                   "gnark",
                   "golang",
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:28:55.065Z",
+    "last_updated": "2026-09-13T22:33:02.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
