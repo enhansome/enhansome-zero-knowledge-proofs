@@ -263,8 +263,8 @@
                 "id": 669466632,
                 "language": "Circom",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T14:51:45Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-15T13:56:07Z",
+                "open_issues": 34,
                 "owner": "selfxyz",
                 "repo": "self",
                 "stars": 1257,
@@ -284,8 +284,8 @@
                 "id": 179699830,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-07-08T17:43:36Z",
-                "open_issues": 63,
+                "last_commit": "2026-09-15T18:58:46Z",
+                "open_issues": 65,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
                 "stars": 1085,
@@ -322,7 +322,7 @@
                 "open_issues": 26,
                 "owner": "worldcoin",
                 "repo": "awesome-zkml",
-                "stars": 1053,
+                "stars": 1052,
                 "topics": [
                   "managed-by-terraform",
                   "team-crypto"
@@ -489,8 +489,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-09-14T15:22:53Z",
-                "open_issues": 324,
+                "last_commit": "2026-09-15T22:17:52Z",
+                "open_issues": 327,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 305,
@@ -593,7 +593,7 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T22:52:17Z",
+                "last_commit": "2026-09-15T22:25:01Z",
                 "open_issues": 83,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
@@ -1052,7 +1052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:20:16.800Z",
+    "last_updated": "2026-09-15T23:05:23.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1064,7 +1064,7 @@
       "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5840,
+      "stars": 5841,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
