@@ -122,7 +122,7 @@
                 "open_issues": 4,
                 "owner": "sec-bit",
                 "repo": "zkPoD-node",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "confidentiality",
                   "data-exchange",
@@ -345,11 +345,11 @@
                 "id": 290136001,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T13:35:42Z",
-                "open_issues": 160,
+                "last_commit": "2026-09-24T04:19:40Z",
+                "open_issues": 163,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1537,
+                "stars": 1538,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -458,8 +458,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-09-23T21:11:16Z",
-                "open_issues": 327,
+                "last_commit": "2026-09-24T19:29:24Z",
+                "open_issues": 331,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 306,
@@ -514,7 +514,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2025-06-12T22:39:48Z",
-                "open_issues": 130,
+                "open_issues": 129,
                 "owner": "scipr-lab",
                 "repo": "libsnark",
                 "stars": 1931,
@@ -538,7 +538,7 @@
                 "open_issues": 114,
                 "owner": "Zokrates",
                 "repo": "ZoKrates",
-                "stars": 1870,
+                "stars": 1871,
                 "topics": [
                   "ethereum",
                   "language",
@@ -562,8 +562,8 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T12:16:38Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-24T16:30:50Z",
+                "open_issues": 86,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
                 "stars": 1736,
@@ -640,7 +640,7 @@
                 "open_issues": 250,
                 "owner": "o1-labs",
                 "repo": "o1js",
-                "stars": 606,
+                "stars": 607,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -784,7 +784,7 @@
                 "open_issues": 48,
                 "owner": "HarryR",
                 "repo": "ethsnarks",
-                "stars": 240,
+                "stars": 241,
                 "topics": [
                   "algorithms",
                   "cplusplus-11",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:03:57.804Z",
+    "last_updated": "2026-09-24T23:18:54.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1033,7 +1033,7 @@
       "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5840,
+      "stars": 5841,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
