@@ -121,7 +121,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,257 | 🐛 35 | 🌐 Circom | 📅 2026-09-15
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,256 | 🐛 35 | 🌐 Circom | 📅 2026-09-15
 * [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,088 | 🐛 63 | 🌐 TypeScript | 📅 2026-09-18
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
@@ -224,7 +224,7 @@ OxPARC learning group:
   * [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
   * [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
 * [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,736 | 🐛 86 | 🌐 Go | 📅 2026-09-24
-* [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,130 | 🐛 37 | 🌐 Rust | 📅 2026-09-25
+* [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,130 | 🐛 35 | 🌐 Rust | 📅 2026-09-26
   * [demo circuit](https://github.com/ebfull/bellman-demo) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2018-09-26
 * [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs) ⭐ 607 | 🐛 250 | 🌐 TypeScript | 📅 2026-09-19
 * [snarky (Ocaml, from O(1) labs, team behind Mina Protocol)](https://github.com/o1-labs/snarky) ⭐ 507 | 🐛 11 | 🌐 OCaml | 📅 2026-08-05
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

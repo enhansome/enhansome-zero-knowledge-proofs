@@ -236,7 +236,7 @@
                 "open_issues": 35,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1257,
+                "stars": 1256,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -615,8 +615,8 @@
                 "id": 48537264,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T23:16:52Z",
-                "open_issues": 37,
+                "last_commit": "2026-09-26T12:52:07Z",
+                "open_issues": 35,
                 "owner": "zkcrypto",
                 "repo": "bellman",
                 "stars": 1130,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:26:29.563Z",
+    "last_updated": "2026-09-26T23:05:02.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1033,7 +1033,7 @@
       "open_issues": 16,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5840,
+      "stars": 5841,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
