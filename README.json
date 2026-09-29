@@ -291,7 +291,7 @@
                 "open_issues": 26,
                 "owner": "worldcoin",
                 "repo": "awesome-zkml",
-                "stars": 1052,
+                "stars": 1051,
                 "topics": [
                   "managed-by-terraform",
                   "team-crypto"
@@ -345,11 +345,11 @@
                 "id": 290136001,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T03:14:09Z",
-                "open_issues": 157,
+                "last_commit": "2026-09-29T09:32:43Z",
+                "open_issues": 148,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1539,
+                "stars": 1540,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -376,7 +376,7 @@
                 "open_issues": 50,
                 "owner": "dalek-cryptography",
                 "repo": "bulletproofs",
-                "stars": 1133,
+                "stars": 1135,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -458,11 +458,11 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-09-28T23:05:44Z",
-                "open_issues": 333,
+                "last_commit": "2026-09-29T23:28:56Z",
+                "open_issues": 326,
                 "owner": "zcash",
                 "repo": "zips",
-                "stars": 306,
+                "stars": 307,
                 "topics": [
                   "cryptocurrency",
                   "cryptography",
@@ -558,15 +558,15 @@
               "repo_info": {
                 "archived": false,
                 "description": "gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license",
-                "homepage": "https://play.gnark.io",
+                "homepage": "https://docs.gnark.consensys.com",
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T00:26:34Z",
-                "open_issues": 96,
+                "last_commit": "2026-09-29T08:34:27Z",
+                "open_issues": 93,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1736,
+                "stars": 1738,
                 "topics": [
                   "gnark",
                   "golang",
@@ -640,7 +640,7 @@
                 "open_issues": 249,
                 "owner": "o1-labs",
                 "repo": "o1js",
-                "stars": 607,
+                "stars": 606,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -1006,7 +1006,7 @@
                 "open_issues": 3,
                 "owner": "fluidex",
                 "repo": "awesome-plonk",
-                "stars": 242,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T00:29:09.909Z",
+    "last_updated": "2026-09-29T23:54:36.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1033,7 +1033,7 @@
       "open_issues": 17,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5841,
+      "stars": 5842,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
