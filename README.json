@@ -176,7 +176,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4923,
+                    "stars": 4922,
                     "topics": [
                       "team-core"
                     ]
@@ -254,7 +254,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T10:02:18Z",
-                "open_issues": 63,
+                "open_issues": 65,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
                 "stars": 1088,
@@ -562,7 +562,7 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T23:30:31Z",
+                "last_commit": "2026-10-03T17:49:03Z",
                 "open_issues": 95,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:29.618Z",
+    "last_updated": "2026-10-03T23:16:12.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
