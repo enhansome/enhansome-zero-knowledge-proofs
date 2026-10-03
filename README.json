@@ -46,7 +46,7 @@
         {
           "node_type": "item",
           "title": "Awesome Privacy on Blockchains",
-          "description": null,
+          "description": "Mikerah/awesome-privacy-on-blockchains",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
             {
               "node_type": "item",
               "title": "SNARK-based permissioned database: rollup by BarryWhitehat",
-              "description": null,
+              "description": "barryWhiteHat/roll_up",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -109,7 +109,7 @@
             {
               "node_type": "item",
               "title": "zkPoD: A Practical Decentralized System for Data Exchange",
-              "description": null,
+              "description": "sec-bit/zkPoD-node",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -137,7 +137,7 @@
             {
               "node_type": "item",
               "title": "Gnosis dFusion: DEX on SNARKs",
-              "description": null,
+              "description": "gnosis/dex-research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -163,7 +163,7 @@
                 {
                   "node_type": "item",
                   "title": "ZK Sync code",
-                  "description": null,
+                  "description": "matter-labs/zksync",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -195,7 +195,7 @@
             {
               "node_type": "item",
               "title": "Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions",
-              "description": null,
+              "description": "valida-xyz/valida",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -223,7 +223,7 @@
             {
               "node_type": "item",
               "title": "Proof of Passport",
-              "description": null,
+              "description": "selfxyz/self",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -244,7 +244,7 @@
             {
               "node_type": "item",
               "title": "Semaphore",
-              "description": null,
+              "description": "semaphore-protocol/semaphore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -278,7 +278,7 @@
             {
               "node_type": "item",
               "title": "Zero-Knowledge Machine Learning - awesome-zkml",
-              "description": null,
+              "description": "worldcoin/awesome-zkml",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -336,7 +336,7 @@
             {
               "node_type": "item",
               "title": "Implementation in C",
-              "description": null,
+              "description": "Tongsuo-Project/Tongsuo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -363,7 +363,7 @@
             {
               "node_type": "item",
               "title": "Implementation in Rust",
-              "description": null,
+              "description": "dalek-cryptography/bulletproofs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -384,7 +384,7 @@
             {
               "node_type": "item",
               "title": "Implementation in Haskell",
-              "description": null,
+              "description": "sdiehl/bulletproofs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -428,7 +428,7 @@
             {
               "node_type": "item",
               "title": "BabySNARK- The simplest possible SNARK for NP. You know, for kids!",
-              "description": null,
+              "description": "initc3/babySNARK",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -462,7 +462,7 @@
                 "open_issues": 328,
                 "owner": "zcash",
                 "repo": "zips",
-                "stars": 307,
+                "stars": 308,
                 "topics": [
                   "cryptocurrency",
                   "cryptography",
@@ -482,12 +482,12 @@
             {
               "node_type": "item",
               "title": "libsnark (C++)",
-              "description": null,
+              "description": "scipr-lab/libsnark",
               "children": [
                 {
                   "node_type": "item",
                   "title": "great tutorial",
-                  "description": null,
+                  "description": "coder5876/libsnark-tutorial",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -525,7 +525,7 @@
             {
               "node_type": "item",
               "title": "zokrates (toolbox for zkSNARKs on Ethereum)",
-              "description": null,
+              "description": "Zokrates/ZoKrates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -553,7 +553,7 @@
             {
               "node_type": "item",
               "title": "gnark - library for zero-knowledge proof protocols written in Go",
-              "description": null,
+              "description": "Consensys-Incorporated/gnark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -584,12 +584,12 @@
             {
               "node_type": "item",
               "title": "bellman (rust)",
-              "description": null,
+              "description": "zkcrypto/bellman",
               "children": [
                 {
                   "node_type": "item",
                   "title": "demo circuit",
-                  "description": null,
+                  "description": "ebfull/bellman-demo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -627,7 +627,7 @@
             {
               "node_type": "item",
               "title": "SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP",
-              "description": null,
+              "description": "o1-labs/o1js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -648,7 +648,7 @@
             {
               "node_type": "item",
               "title": "snarky (Ocaml, from O(1) labs, team behind Mina Protocol)",
-              "description": null,
+              "description": "o1-labs/snarky",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -669,12 +669,12 @@
             {
               "node_type": "item",
               "title": "circom and snarkjs tutorial",
-              "description": null,
+              "description": "iden3/circom_old",
               "children": [
                 {
                   "node_type": "item",
                   "title": "A circuit and zk-snark implement using Circom and SnarkJS by Luozhu",
-                  "description": null,
+                  "description": "LuozhuZhang/zkps-circuit-snark",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -707,7 +707,7 @@
                 {
                   "node_type": "item",
                   "title": "Roll-up tutorial using Circom and SnarkJS by Ying Tong",
-                  "description": null,
+                  "description": "therealyingtong/roll_up_circom_tutorial",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -745,7 +745,7 @@
             {
               "node_type": "item",
               "title": "Ronkathon: Applied Cryptography from first principles",
-              "description": null,
+              "description": "pluto/ronkathon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -771,7 +771,7 @@
             {
               "node_type": "item",
               "title": "ethsnarks by HarryR (alternative toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop)",
-              "description": null,
+              "description": "HarryR/ethsnarks",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -802,7 +802,7 @@
             {
               "node_type": "item",
               "title": "jsnark (Java, bindings to libsnark)",
-              "description": null,
+              "description": "akosba/jsnark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -884,12 +884,12 @@
             {
               "node_type": "item",
               "title": "Implementation of ZCash MPC Ceremony, Part I: \"Powers of Tau\"",
-              "description": null,
+              "description": "ebfull/powersoftau",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Archived independent implementation in Go",
-                  "description": null,
+                  "description": "FiloSottile/powersoftau",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -931,7 +931,7 @@
             {
               "node_type": "item",
               "title": "Implementation of ZCash MPC Ceremony, Part I: \"Sapling Circuit\"",
-              "description": null,
+              "description": "zcash/sapling-mpc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -965,7 +965,7 @@
             {
               "node_type": "item",
               "title": "Sonic MPC implementation by Matter Labs",
-              "description": null,
+              "description": "matter-labs-archive/alpha_line",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:57:31.192Z",
+    "last_updated": "2026-10-03T05:14:29.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
