@@ -176,7 +176,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4922,
+                    "stars": 4923,
                     "topics": [
                       "team-core"
                     ]
@@ -566,7 +566,7 @@
                 "open_issues": 95,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1738,
+                "stars": 1739,
                 "topics": [
                   "gnark",
                   "golang",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:16:12.106Z",
+    "last_updated": "2026-10-04T23:30:43.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
