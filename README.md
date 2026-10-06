@@ -122,7 +122,7 @@ More complete curated list of implementations and scientific resources:
 ### Non-blockchain
 
 * [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,256 | 🐛 35 | 🌐 Circom | 📅 2026-09-15
-* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,087 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-18
+* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,089 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-18
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
 * [Web-Proofs](https://zeroknowledge.fm/325-2/)
@@ -207,7 +207,7 @@ Vitalik Buterin's blog series on SNARKs:
 
 Protocol descriptions:
 
-* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 308 | 🐛 329 | 🌐 TeX | 📅 2026-10-01 (very useful as detailed cheat-sheet of all cryptography used)
+* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 308 | 🐛 329 | 🌐 TeX | 📅 2026-10-06 (very useful as detailed cheat-sheet of all cryptography used)
 * [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 * [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 
@@ -224,7 +224,7 @@ OxPARC learning group:
   * [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
   * [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
 * [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,739 | 🐛 101 | 🌐 Go | 📅 2026-10-06
-* [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,129 | 🐛 36 | 🌐 Rust | 📅 2026-09-26
+* [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,129 | 🐛 34 | 🌐 Rust | 📅 2026-09-26
   * [demo circuit](https://github.com/ebfull/bellman-demo) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2018-09-26
 * [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs) ⭐ 606 | 🐛 249 | 🌐 TypeScript | 📅 2026-10-02
 * [snarky (Ocaml, from O(1) labs, team behind Mina Protocol)](https://github.com/o1-labs/snarky) ⭐ 507 | 🐛 11 | 🌐 OCaml | 📅 2026-08-05
@@ -263,7 +263,7 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 
 (This is a recent development. Contributions are welcome!)
 
-* [Awesome PLONK](https://github.com/Fluidex/awesome-plonk) ⭐ 242 | 🐛 3 | 📅 2024-08-17: A curated list of awesome things related to plonk proof system.
+* [Awesome PLONK](https://github.com/Fluidex/awesome-plonk) ⭐ 243 | 🐛 3 | 📅 2024-08-17: A curated list of awesome things related to plonk proof system.
 * [Understanding PLONK by Vitalik Buterin](https://vitalik.eth.limo/general/2019/09/22/plonk.html)
 * [Ignition: Trusted Setup MPC Ceremony for PLONK](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
 * [Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
