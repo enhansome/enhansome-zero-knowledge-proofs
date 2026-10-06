@@ -93,7 +93,7 @@ More complete curated list of implementations and scientific resources:
 * [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node) ⭐ 209 | 🐛 4 | 🌐 Go | 📅 2023-05-21
 * [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion) ⭐ 91 | 🐛 9 | 🌐 TeX | 📅 2021-12-01
 * [ZK Sync](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58) by [Matter Labs](https://matter-labs.io)
-  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,923 | 🐛 106 | 🌐 Rust | 📅 2026-05-08
+  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,922 | 🐛 106 | 🌐 Rust | 📅 2026-05-08
   * [ZK SDK](https://zksync.io)
 * [Loopring DEX Protocol (v3)](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
 * [Dark Forest: zkSNARK space warfare strategy game](https://zkga.me/)
@@ -121,8 +121,8 @@ More complete curated list of implementations and scientific resources:
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,257 | 🐛 35 | 🌐 Circom | 📅 2026-09-15
-* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,088 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-18
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,256 | 🐛 35 | 🌐 Circom | 📅 2026-09-15
+* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,087 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-18
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
 * [Web-Proofs](https://zeroknowledge.fm/325-2/)
@@ -149,7 +149,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Try
 
-* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,539 | 🐛 147 | 🌐 C | 📅 2026-09-30
+* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,540 | 🐛 147 | 🌐 C | 📅 2026-09-30
 * [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,135 | 🐛 50 | 🌐 Rust | 📅 2024-07-23
 * [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs) ⭐ 554 | 🐛 6 | 🌐 Haskell | 📅 2022-12-25
 
@@ -223,8 +223,8 @@ OxPARC learning group:
 * [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates) ⭐ 1,872 | 🐛 114 | 🌐 Rust | 📅 2024-08-01
   * [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
   * [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
-* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,739 | 🐛 95 | 🌐 Go | 📅 2026-10-03
-* [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,130 | 🐛 35 | 🌐 Rust | 📅 2026-09-26
+* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,738 | 🐛 97 | 🌐 Go | 📅 2026-10-05
+* [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,129 | 🐛 36 | 🌐 Rust | 📅 2026-09-26
   * [demo circuit](https://github.com/ebfull/bellman-demo) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2018-09-26
 * [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs) ⭐ 606 | 🐛 249 | 🌐 TypeScript | 📅 2026-10-02
 * [snarky (Ocaml, from O(1) labs, team behind Mina Protocol)](https://github.com/o1-labs/snarky) ⭐ 507 | 🐛 11 | 🌐 OCaml | 📅 2026-08-05
@@ -263,7 +263,7 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 
 (This is a recent development. Contributions are welcome!)
 
-* [Awesome PLONK](https://github.com/Fluidex/awesome-plonk) ⭐ 241 | 🐛 3 | 📅 2024-08-17: A curated list of awesome things related to plonk proof system.
+* [Awesome PLONK](https://github.com/Fluidex/awesome-plonk) ⭐ 242 | 🐛 3 | 📅 2024-08-17: A curated list of awesome things related to plonk proof system.
 * [Understanding PLONK by Vitalik Buterin](https://vitalik.eth.limo/general/2019/09/22/plonk.html)
 * [Ignition: Trusted Setup MPC Ceremony for PLONK](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
 * [Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
