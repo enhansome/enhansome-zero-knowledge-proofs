@@ -56,7 +56,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-11-04T17:37:06Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "Mikerah",
             "repo": "awesome-privacy-on-blockchains",
             "stars": 289,
@@ -236,7 +236,7 @@
                 "open_issues": 35,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1255,
+                "stars": 1254,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -257,7 +257,7 @@
                 "open_issues": 65,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1090,
+                "stars": 1091,
                 "topics": [
                   "circom",
                   "ethereum",
@@ -349,7 +349,7 @@
                 "open_issues": 147,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1540,
+                "stars": 1539,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -458,7 +458,7 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-10-07T20:22:25Z",
+                "last_commit": "2026-10-08T17:22:56Z",
                 "open_issues": 328,
                 "owner": "zcash",
                 "repo": "zips",
@@ -562,8 +562,8 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T22:49:59Z",
-                "open_issues": 101,
+                "last_commit": "2026-10-08T23:11:15Z",
+                "open_issues": 102,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
                 "stars": 1739,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:20:42.943Z",
+    "last_updated": "2026-10-09T00:34:43.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
