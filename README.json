@@ -291,7 +291,7 @@
                 "open_issues": 26,
                 "owner": "worldcoin",
                 "repo": "awesome-zkml",
-                "stars": 1050,
+                "stars": 1051,
                 "topics": [
                   "managed-by-terraform",
                   "team-crypto"
@@ -346,7 +346,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T10:48:05Z",
-                "open_issues": 147,
+                "open_issues": 148,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
                 "stars": 1539,
@@ -459,7 +459,7 @@
                 "language": "TeX",
                 "license": "MIT",
                 "last_commit": "2026-10-08T17:22:56Z",
-                "open_issues": 328,
+                "open_issues": 329,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 308,
@@ -562,7 +562,7 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T23:11:15Z",
+                "last_commit": "2026-10-09T18:05:13Z",
                 "open_issues": 102,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:34:43.508Z",
+    "last_updated": "2026-10-10T00:14:17.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
