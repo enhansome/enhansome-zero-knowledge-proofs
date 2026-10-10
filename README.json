@@ -236,7 +236,7 @@
                 "open_issues": 35,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1254,
+                "stars": 1255,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -349,7 +349,7 @@
                 "open_issues": 148,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1539,
+                "stars": 1540,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:14:17.636Z",
+    "last_updated": "2026-10-10T23:44:42.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",

@@ -121,7 +121,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,254 | 🐛 35 | 🌐 Circom | 📅 2026-09-15
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,255 | 🐛 35 | 🌐 Circom | 📅 2026-09-15
 * [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,091 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-18
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
@@ -149,7 +149,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Try
 
-* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,539 | 🐛 148 | 🌐 C | 📅 2026-09-30
+* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,540 | 🐛 148 | 🌐 C | 📅 2026-09-30
 * [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,135 | 🐛 50 | 🌐 Rust | 📅 2024-07-23
 * [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs) ⭐ 554 | 🐛 6 | 🌐 Haskell | 📅 2022-12-25
 
