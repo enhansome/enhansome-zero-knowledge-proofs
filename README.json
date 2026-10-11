@@ -257,7 +257,7 @@
                 "open_issues": 65,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1091,
+                "stars": 1092,
                 "topics": [
                   "circom",
                   "ethereum",
@@ -376,7 +376,7 @@
                 "open_issues": 50,
                 "owner": "dalek-cryptography",
                 "repo": "bulletproofs",
-                "stars": 1135,
+                "stars": 1134,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -563,7 +563,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T18:05:13Z",
-                "open_issues": 102,
+                "open_issues": 104,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
                 "stars": 1739,
@@ -637,7 +637,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T05:37:23Z",
-                "open_issues": 249,
+                "open_issues": 251,
                 "owner": "o1-labs",
                 "repo": "o1js",
                 "stars": 606,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:44:42.749Z",
+    "last_updated": "2026-10-11T23:51:33.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1033,7 +1033,7 @@
       "open_issues": 18,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5844,
+      "stars": 5843,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
