@@ -121,8 +121,8 @@ More complete curated list of implementations and scientific resources:
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,255 | 🐛 35 | 🌐 Circom | 📅 2026-09-15
-* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,092 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-18
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,255 | 🐛 36 | 🌐 Circom | 📅 2026-10-12
+* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,093 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-18
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
 * [Web-Proofs](https://zeroknowledge.fm/325-2/)
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
