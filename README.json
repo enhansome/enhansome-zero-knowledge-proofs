@@ -176,7 +176,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4920,
+                    "stars": 4918,
                     "topics": [
                       "team-core"
                     ]
@@ -236,7 +236,7 @@
                 "open_issues": 36,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1255,
+                "stars": 1257,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -349,7 +349,7 @@
                 "open_issues": 148,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1540,
+                "stars": 1541,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -397,7 +397,7 @@
                 "open_issues": 6,
                 "owner": "sdiehl",
                 "repo": "bulletproofs",
-                "stars": 554,
+                "stars": 555,
                 "topics": [
                   "bulletproofs",
                   "cryptography",
@@ -441,7 +441,7 @@
                 "open_issues": 10,
                 "owner": "initc3",
                 "repo": "babySNARK",
-                "stars": 241,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -458,8 +458,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-10-08T17:22:56Z",
-                "open_issues": 329,
+                "last_commit": "2026-10-13T20:47:08Z",
+                "open_issues": 332,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 308,
@@ -562,8 +562,8 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T18:05:13Z",
-                "open_issues": 104,
+                "last_commit": "2026-10-13T22:10:40Z",
+                "open_issues": 93,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
                 "stars": 1739,
@@ -636,8 +636,8 @@
                 "id": 368694740,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T05:37:23Z",
-                "open_issues": 251,
+                "last_commit": "2026-10-13T14:21:58Z",
+                "open_issues": 249,
                 "owner": "o1-labs",
                 "repo": "o1js",
                 "stars": 606,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:11:42.039Z",
+    "last_updated": "2026-10-13T23:48:58.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
