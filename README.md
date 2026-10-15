@@ -89,7 +89,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Ethereum
 
-* [SNARK-based permissioned database: rollup by BarryWhitehat](https://github.com/barryWhiteHat/roll_up) ⭐ 369 | 🐛 11 | 🌐 C++ | 📅 2023-02-27
+* [SNARK-based permissioned database: rollup by BarryWhitehat](https://github.com/barryWhiteHat/roll_up) ⭐ 370 | 🐛 11 | 🌐 C++ | 📅 2023-02-27
 * [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node) ⭐ 209 | 🐛 4 | 🌐 Go | 📅 2023-05-21
 * [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion) ⭐ 91 | 🐛 9 | 🌐 TeX | 📅 2021-12-01
 * [ZK Sync](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58) by [Matter Labs](https://matter-labs.io)
@@ -121,8 +121,8 @@ More complete curated list of implementations and scientific resources:
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,258 | 🐛 36 | 🌐 Circom | 📅 2026-10-12
-* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,093 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-18
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,259 | 🐛 36 | 🌐 Circom | 📅 2026-10-12
+* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,093 | 🐛 66 | 🌐 TypeScript | 📅 2026-09-18
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
 * [Web-Proofs](https://zeroknowledge.fm/325-2/)
@@ -149,7 +149,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Try
 
-* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,541 | 🐛 147 | 🌐 C | 📅 2026-10-14
+* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,542 | 🐛 147 | 🌐 C | 📅 2026-10-15
 * [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,134 | 🐛 50 | 🌐 Rust | 📅 2024-07-23
 * [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs) ⭐ 555 | 🐛 6 | 🌐 Haskell | 📅 2022-12-25
 
@@ -207,7 +207,7 @@ Vitalik Buterin's blog series on SNARKs:
 
 Protocol descriptions:
 
-* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 308 | 🐛 333 | 🌐 TeX | 📅 2026-10-14 (very useful as detailed cheat-sheet of all cryptography used)
+* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 308 | 🐛 338 | 🌐 TeX | 📅 2026-10-15 (very useful as detailed cheat-sheet of all cryptography used)
 * [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 * [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 
@@ -218,13 +218,13 @@ OxPARC learning group:
 
 ### Try
 
-* [libsnark (C++)](https://github.com/scipr-lab/libsnark) ⭐ 1,931 | 🐛 129 | 🌐 C++ | 📅 2025-06-12
+* [libsnark (C++)](https://github.com/scipr-lab/libsnark) ⭐ 1,930 | 🐛 129 | 🌐 C++ | 📅 2025-06-12
   * [great tutorial](https://github.com/christianlundkvist/libsnark-tutorial) ⭐ 188 | 🐛 5 | 🌐 C++ | 📅 2021-05-17
-* [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates) ⭐ 1,873 | 🐛 114 | 🌐 Rust | 📅 2024-08-01
+* [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates) ⭐ 1,872 | 🐛 114 | 🌐 Rust | 📅 2024-08-01
   * [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
   * [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
-* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,741 | 🐛 90 | 🌐 Go | 📅 2026-10-14
-* [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,129 | 🐛 34 | 🌐 Rust | 📅 2026-09-26
+* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,740 | 🐛 87 | 🌐 Go | 📅 2026-10-15
+* [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,128 | 🐛 34 | 🌐 Rust | 📅 2026-09-26
   * [demo circuit](https://github.com/ebfull/bellman-demo) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2018-09-26
 * [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs) ⭐ 606 | 🐛 251 | 🌐 TypeScript | 📅 2026-10-13
 * [snarky (Ocaml, from O(1) labs, team behind Mina Protocol)](https://github.com/o1-labs/snarky) ⭐ 507 | 🐛 11 | 🌐 OCaml | 📅 2026-08-05
@@ -332,4 +332,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
