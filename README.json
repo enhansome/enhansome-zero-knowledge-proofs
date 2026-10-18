@@ -562,8 +562,8 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T22:00:50Z",
-                "open_issues": 86,
+                "last_commit": "2026-10-18T20:25:08Z",
+                "open_issues": 89,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
                 "stars": 1741,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:33:24.418Z",
+    "last_updated": "2026-10-18T22:32:04.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
