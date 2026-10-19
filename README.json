@@ -176,7 +176,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4919,
+                    "stars": 4920,
                     "topics": [
                       "team-core"
                     ]
@@ -345,7 +345,7 @@
                 "id": 290136001,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T09:21:17Z",
+                "last_commit": "2026-10-19T05:15:04Z",
                 "open_issues": 147,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
@@ -562,11 +562,11 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T20:25:08Z",
+                "last_commit": "2026-10-19T21:57:59Z",
                 "open_issues": 89,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1741,
+                "stars": 1742,
                 "topics": [
                   "gnark",
                   "golang",
@@ -637,7 +637,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T14:21:58Z",
-                "open_issues": 251,
+                "open_issues": 252,
                 "owner": "o1-labs",
                 "repo": "o1js",
                 "stars": 605,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:32:04.482Z",
+    "last_updated": "2026-10-19T23:53:01.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
