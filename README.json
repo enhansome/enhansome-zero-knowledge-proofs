@@ -349,7 +349,7 @@
                 "open_issues": 147,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1545,
+                "stars": 1546,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -458,8 +458,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-10-20T22:48:12Z",
-                "open_issues": 336,
+                "last_commit": "2026-10-21T20:23:50Z",
+                "open_issues": 337,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 309,
@@ -562,8 +562,8 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T20:28:07Z",
-                "open_issues": 89,
+                "last_commit": "2026-10-21T20:28:28Z",
+                "open_issues": 90,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
                 "stars": 1742,
@@ -636,7 +636,7 @@
                 "id": 368694740,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T14:21:58Z",
+                "last_commit": "2026-10-21T15:24:01Z",
                 "open_issues": 252,
                 "owner": "o1-labs",
                 "repo": "o1js",
@@ -1021,19 +1021,19 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:18:13.162Z",
+    "last_updated": "2026-10-21T23:32:24.417Z",
     "original_repository_info": {
-      "archived": false,
+      "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
       "homepage": null,
       "id": 156949882,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-01-23T15:01:47Z",
-      "open_issues": 18,
+      "last_commit": "2026-10-21T16:33:02Z",
+      "open_issues": 0,
       "owner": "matter-labs",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5847,
+      "stars": 5848,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
@@ -1042,7 +1042,7 @@
         "zk-snarks"
       ]
     },
-    "original_repository_sha": "c479fedaafa16448afe55588cd37a7baf928546b",
+    "original_repository_sha": "39239335767c0ae593a1cb7469142dfec6cc70e9",
     "enhanced_repository": "enhansome/enhansome-zero-knowledge-proofs",
     "enhanced_repository_description": null,
     "title": "Awesome zero knowledge proofs (zkp) with stars"
