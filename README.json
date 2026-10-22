@@ -176,7 +176,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4920,
+                    "stars": 4919,
                     "topics": [
                       "team-core"
                     ]
@@ -236,7 +236,7 @@
                 "open_issues": 38,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1262,
+                "stars": 1263,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -291,7 +291,7 @@
                 "open_issues": 26,
                 "owner": "worldcoin",
                 "repo": "awesome-zkml",
-                "stars": 1050,
+                "stars": 1049,
                 "topics": [
                   "managed-by-terraform",
                   "team-crypto"
@@ -349,7 +349,7 @@
                 "open_issues": 147,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1546,
+                "stars": 1547,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -459,7 +459,7 @@
                 "language": "TeX",
                 "license": "MIT",
                 "last_commit": "2026-10-21T20:23:50Z",
-                "open_issues": 337,
+                "open_issues": 338,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 309,
@@ -636,7 +636,7 @@
                 "id": 368694740,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T15:24:01Z",
+                "last_commit": "2026-10-22T15:33:22Z",
                 "open_issues": 252,
                 "owner": "o1-labs",
                 "repo": "o1js",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:32:24.417Z",
+    "last_updated": "2026-10-22T23:30:30.947Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
