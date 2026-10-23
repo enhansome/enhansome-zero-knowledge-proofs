@@ -176,7 +176,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4919,
+                    "stars": 4918,
                     "topics": [
                       "team-core"
                     ]
@@ -232,11 +232,11 @@
                 "id": 669466632,
                 "language": "Circom",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T17:14:32Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-23T17:15:11Z",
+                "open_issues": 39,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1263,
+                "stars": 1264,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -349,7 +349,7 @@
                 "open_issues": 147,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1547,
+                "stars": 1548,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -517,7 +517,7 @@
                 "open_issues": 129,
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1930,
+                "stars": 1929,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -563,7 +563,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T20:28:28Z",
-                "open_issues": 90,
+                "open_issues": 92,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
                 "stars": 1742,
@@ -636,8 +636,8 @@
                 "id": 368694740,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T15:33:22Z",
-                "open_issues": 252,
+                "last_commit": "2026-10-23T17:58:16Z",
+                "open_issues": 253,
                 "owner": "o1-labs",
                 "repo": "o1js",
                 "stars": 605,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:30:30.947Z",
+    "last_updated": "2026-10-23T23:22:01.577Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
