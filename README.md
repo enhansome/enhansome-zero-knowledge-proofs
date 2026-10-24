@@ -225,7 +225,7 @@ OxPARC learning group:
 * [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates) ⭐ 1,872 | 🐛 121 | 🌐 Rust | 📅 2024-08-01
   * [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
   * [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
-* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,742 | 🐛 92 | 🌐 Go | 📅 2026-10-21
+* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,742 | 🐛 89 | 🌐 Go | 📅 2026-10-24
 * [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,128 | 🐛 34 | 🌐 Rust | 📅 2026-09-26
   * [demo circuit](https://github.com/ebfull/bellman-demo) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2018-09-26
 * [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs) ⭐ 605 | 🐛 253 | 🌐 TypeScript | 📅 2026-10-23
@@ -334,4 +334,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
