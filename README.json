@@ -172,11 +172,11 @@
                     "id": 189174934,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-05-08T09:04:17Z",
+                    "last_commit": "2026-10-27T13:31:24Z",
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4918,
+                    "stars": 4917,
                     "topics": [
                       "team-core"
                     ]
@@ -232,11 +232,11 @@
                 "id": 669466632,
                 "language": "Circom",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T17:15:11Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-27T12:56:55Z",
+                "open_issues": 37,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1264,
+                "stars": 1265,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -349,7 +349,7 @@
                 "open_issues": 143,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1549,
+                "stars": 1552,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -458,11 +458,11 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-10-21T20:23:50Z",
-                "open_issues": 339,
+                "last_commit": "2026-10-27T02:38:45Z",
+                "open_issues": 342,
                 "owner": "zcash",
                 "repo": "zips",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "cryptocurrency",
                   "cryptography",
@@ -566,7 +566,7 @@
                 "open_issues": 85,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1743,
+                "stars": 1744,
                 "topics": [
                   "gnark",
                   "golang",
@@ -636,8 +636,8 @@
                 "id": 368694740,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T14:19:22Z",
-                "open_issues": 251,
+                "last_commit": "2026-10-27T15:02:52Z",
+                "open_issues": 252,
                 "owner": "o1-labs",
                 "repo": "o1js",
                 "stars": 605,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:01:11.618Z",
+    "last_updated": "2026-10-27T23:55:45.320Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1031,9 +1031,9 @@
       "license": "NOASSERTION",
       "last_commit": "2026-10-21T16:33:02Z",
       "open_issues": 0,
-      "owner": "matter-labs",
+      "owner": "matter-labs-archive",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5849,
+      "stars": 5850,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
