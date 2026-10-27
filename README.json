@@ -59,7 +59,7 @@
             "open_issues": 7,
             "owner": "Mikerah",
             "repo": "awesome-privacy-on-blockchains",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "anonymity",
               "awesome-list",
@@ -345,11 +345,11 @@
                 "id": 290136001,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T05:15:04Z",
-                "open_issues": 147,
+                "last_commit": "2026-10-26T08:11:10Z",
+                "open_issues": 143,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1548,
+                "stars": 1549,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -636,8 +636,8 @@
                 "id": 368694740,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T05:31:30Z",
-                "open_issues": 253,
+                "last_commit": "2026-10-26T14:19:22Z",
+                "open_issues": 251,
                 "owner": "o1-labs",
                 "repo": "o1js",
                 "stars": 605,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:44:42.178Z",
+    "last_updated": "2026-10-27T00:01:11.618Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
