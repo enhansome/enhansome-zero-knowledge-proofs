@@ -257,7 +257,7 @@
                 "open_issues": 66,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1094,
+                "stars": 1095,
                 "topics": [
                   "circom",
                   "ethereum",
@@ -346,7 +346,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T08:11:10Z",
-                "open_issues": 143,
+                "open_issues": 144,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
                 "stars": 1552,
@@ -459,7 +459,7 @@
                 "language": "TeX",
                 "license": "MIT",
                 "last_commit": "2026-10-27T02:38:45Z",
-                "open_issues": 342,
+                "open_issues": 348,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 310,
@@ -517,7 +517,7 @@
                 "open_issues": 129,
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -562,11 +562,11 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T23:18:19Z",
-                "open_issues": 85,
+                "last_commit": "2026-10-28T14:12:11Z",
+                "open_issues": 87,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1744,
+                "stars": 1745,
                 "topics": [
                   "gnark",
                   "golang",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:55:45.320Z",
+    "last_updated": "2026-10-29T00:13:29.221Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
