@@ -232,7 +232,7 @@
                 "id": 669466632,
                 "language": "Circom",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T12:56:55Z",
+                "last_commit": "2026-10-29T10:58:40Z",
                 "open_issues": 37,
                 "owner": "selfxyz",
                 "repo": "self",
@@ -346,10 +346,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T08:11:10Z",
-                "open_issues": 144,
+                "open_issues": 143,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1552,
+                "stars": 1553,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -459,7 +459,7 @@
                 "language": "TeX",
                 "license": "MIT",
                 "last_commit": "2026-10-27T02:38:45Z",
-                "open_issues": 348,
+                "open_issues": 351,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 310,
@@ -517,7 +517,7 @@
                 "open_issues": 129,
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1930,
+                "stars": 1931,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:13:29.221Z",
+    "last_updated": "2026-10-30T00:08:45.119Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",

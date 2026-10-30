@@ -123,7 +123,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,265 | 🐛 37 | 🌐 Circom | 📅 2026-10-27
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,265 | 🐛 37 | 🌐 Circom | 📅 2026-10-29
 * [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,095 | 🐛 66 | 🌐 TypeScript | 📅 2026-10-17
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
@@ -151,7 +151,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Try
 
-* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,552 | 🐛 144 | 🌐 C | 📅 2026-10-26
+* [Implementation in C](https://github.com/Tongsuo-Project/Tongsuo) ⭐ 1,553 | 🐛 143 | 🌐 C | 📅 2026-10-26
 * [Implementation in Rust](https://github.com/dalek-cryptography/bulletproofs) ⭐ 1,134 | 🐛 50 | 🌐 Rust | 📅 2024-07-23
 * [Implementation in Haskell](https://github.com/adjoint-io/bulletproofs) ⭐ 555 | 🐛 6 | 🌐 Haskell | 📅 2022-12-25
 
@@ -209,7 +209,7 @@ Vitalik Buterin's blog series on SNARKs:
 
 Protocol descriptions:
 
-* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 310 | 🐛 348 | 🌐 TeX | 📅 2026-10-27 (very useful as detailed cheat-sheet of all cryptography used)
+* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 310 | 🐛 351 | 🌐 TeX | 📅 2026-10-27 (very useful as detailed cheat-sheet of all cryptography used)
 * [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 * [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 
@@ -220,7 +220,7 @@ OxPARC learning group:
 
 ### Try
 
-* [libsnark (C++)](https://github.com/scipr-lab/libsnark) ⭐ 1,930 | 🐛 129 | 🌐 C++ | 📅 2025-06-12
+* [libsnark (C++)](https://github.com/scipr-lab/libsnark) ⭐ 1,931 | 🐛 129 | 🌐 C++ | 📅 2025-06-12
   * [great tutorial](https://github.com/christianlundkvist/libsnark-tutorial) ⭐ 188 | 🐛 5 | 🌐 C++ | 📅 2021-05-17
 * [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates) ⭐ 1,872 | 🐛 121 | 🌐 Rust | 📅 2024-08-01
   * [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
@@ -334,4 +334,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
