@@ -232,11 +232,11 @@
                 "id": 669466632,
                 "language": "Circom",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T10:58:40Z",
-                "open_issues": 37,
+                "last_commit": "2026-10-30T17:10:31Z",
+                "open_issues": 38,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1265,
+                "stars": 1266,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -346,7 +346,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T08:11:10Z",
-                "open_issues": 143,
+                "open_issues": 145,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
                 "stars": 1553,
@@ -458,7 +458,7 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-10-27T02:38:45Z",
+                "last_commit": "2026-10-30T02:05:17Z",
                 "open_issues": 351,
                 "owner": "zcash",
                 "repo": "zips",
@@ -563,7 +563,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T14:12:11Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
                 "stars": 1745,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T00:08:45.119Z",
+    "last_updated": "2026-10-30T23:57:42.163Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1033,7 +1033,7 @@
       "open_issues": 0,
       "owner": "matter-labs-archive",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5850,
+      "stars": 5849,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",
