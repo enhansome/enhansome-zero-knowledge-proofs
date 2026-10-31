@@ -349,7 +349,7 @@
                 "open_issues": 145,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1553,
+                "stars": 1554,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -459,7 +459,7 @@
                 "language": "TeX",
                 "license": "MIT",
                 "last_commit": "2026-10-30T02:05:17Z",
-                "open_issues": 351,
+                "open_issues": 354,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 310,
@@ -563,10 +563,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T14:12:11Z",
-                "open_issues": 88,
+                "open_issues": 91,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1745,
+                "stars": 1746,
                 "topics": [
                   "gnark",
                   "golang",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:57:42.163Z",
+    "last_updated": "2026-10-31T23:34:14.486Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
