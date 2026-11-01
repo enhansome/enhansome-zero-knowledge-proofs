@@ -41,7 +41,7 @@
 
 [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519): alternative introductory list for beginners (more videos).
 
-* [ZK Basics Cheatsheet](https://github.com/baro77/ZKbasicsCS) ⭐ 124 | 🐛 0 | 📅 2023-09-24 - a "for (not too much) dummies" poster, trying to not miss core concepts despite the simplified approach and topics selection
+* [ZK Basics Cheatsheet](https://github.com/baro77/ZKbasicsCS) ⭐ 123 | 🐛 0 | 📅 2023-09-24 - a "for (not too much) dummies" poster, trying to not miss core concepts despite the simplified approach and topics selection
 * [Cyfrin Updraft: Fundamentals of Zero-Knowledge Proofs](https://cyfrin.com/updraft/fundamentals-of-zero-knowledge-proofs/)
 * [Zero Knowledge Proofs: An illustrated primer by Matthew Green](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
 * [Demystifying zero-knowledge proofs](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.p) ([video](https://www.youtube.com/watch?v=_6TqUNVLChc)) (math-heavy, awesome introduction into underlying cryptography)
@@ -95,7 +95,7 @@ More complete curated list of implementations and scientific resources:
 * [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node) ⭐ 209 | 🐛 4 | 🌐 Go | 📅 2023-05-21
 * [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion) ⭐ 91 | 🐛 9 | 🌐 TeX | 📅 2021-12-01
 * [ZK Sync](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58) by [Matter Labs](https://matter-labs.io)
-  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,917 | 🐛 106 | 🌐 Rust | 📅 2026-10-27
+  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,916 | 🐛 106 | 🌐 Rust | 📅 2026-10-27
   * [ZK SDK](https://zksync.io)
 * [Loopring DEX Protocol (v3)](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
 * [Dark Forest: zkSNARK space warfare strategy game](https://zkga.me/)
@@ -334,4 +334,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "baro77",
             "repo": "ZKbasicsCS",
-            "stars": 124,
+            "stars": 123,
             "topics": [
               "argument",
               "completeness",
@@ -176,7 +176,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4917,
+                    "stars": 4916,
                     "topics": [
                       "team-core"
                     ]
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:34:14.486Z",
+    "last_updated": "2026-11-01T23:48:09.980Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
