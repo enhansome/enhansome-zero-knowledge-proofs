@@ -122,7 +122,7 @@
                 "open_issues": 4,
                 "owner": "sec-bit",
                 "repo": "zkPoD-node",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "confidentiality",
                   "data-exchange",
@@ -236,7 +236,7 @@
                 "open_issues": 38,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -346,10 +346,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T08:11:10Z",
-                "open_issues": 147,
+                "open_issues": 149,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1554,
+                "stars": 1552,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -458,8 +458,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-11-02T18:27:37Z",
-                "open_issues": 355,
+                "last_commit": "2026-11-04T00:03:49Z",
+                "open_issues": 353,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 310,
@@ -562,7 +562,7 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T23:00:42Z",
+                "last_commit": "2026-11-03T18:50:45Z",
                 "open_issues": 91,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:33:14.175Z",
+    "last_updated": "2026-11-04T00:48:08.746Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
