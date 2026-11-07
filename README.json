@@ -176,7 +176,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4915,
+                    "stars": 4914,
                     "topics": [
                       "team-core"
                     ]
@@ -232,8 +232,8 @@
                 "id": 669466632,
                 "language": "Circom",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T17:10:31Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-06T20:52:52Z",
+                "open_issues": 40,
                 "owner": "selfxyz",
                 "repo": "self",
                 "stars": 1267,
@@ -257,7 +257,7 @@
                 "open_issues": 68,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1096,
+                "stars": 1097,
                 "topics": [
                   "circom",
                   "ethereum",
@@ -349,7 +349,7 @@
                 "open_issues": 149,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1555,
+                "stars": 1557,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -376,7 +376,7 @@
                 "open_issues": 50,
                 "owner": "dalek-cryptography",
                 "repo": "bulletproofs",
-                "stars": 1134,
+                "stars": 1133,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -458,8 +458,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-11-06T01:01:22Z",
-                "open_issues": 355,
+                "last_commit": "2026-11-06T22:21:54Z",
+                "open_issues": 352,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 312,
@@ -562,8 +562,8 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T03:58:31Z",
-                "open_issues": 93,
+                "last_commit": "2026-11-07T00:09:32Z",
+                "open_issues": 86,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
                 "stars": 1746,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:03:51.631Z",
+    "last_updated": "2026-11-07T00:13:56.621Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
