@@ -254,7 +254,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-17T21:28:52Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
                 "stars": 1097,
@@ -458,7 +458,7 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-11-07T06:48:28Z",
+                "last_commit": "2026-11-08T04:01:58Z",
                 "open_issues": 352,
                 "owner": "zcash",
                 "repo": "zips",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:49:56.448Z",
+    "last_updated": "2026-11-08T23:55:32.170Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",

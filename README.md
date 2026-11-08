@@ -124,7 +124,7 @@ More complete curated list of implementations and scientific resources:
 ### Non-blockchain
 
 * [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,267 | 🐛 40 | 🌐 Circom | 📅 2026-11-06
-* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,097 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-17
+* [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,097 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-17
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
 * [Web-Proofs](https://zeroknowledge.fm/325-2/)
@@ -209,7 +209,7 @@ Vitalik Buterin's blog series on SNARKs:
 
 Protocol descriptions:
 
-* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 312 | 🐛 352 | 🌐 TeX | 📅 2026-11-07 (very useful as detailed cheat-sheet of all cryptography used)
+* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 312 | 🐛 352 | 🌐 TeX | 📅 2026-11-08 (very useful as detailed cheat-sheet of all cryptography used)
 * [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 * [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 
@@ -334,4 +334,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
