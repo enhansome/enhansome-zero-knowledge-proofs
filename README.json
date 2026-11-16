@@ -56,7 +56,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-11-04T17:37:06Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "Mikerah",
             "repo": "awesome-privacy-on-blockchains",
             "stars": 290,
@@ -176,7 +176,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4913,
+                    "stars": 4912,
                     "topics": [
                       "team-core"
                     ]
@@ -254,7 +254,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-17T21:28:52Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
                 "stars": 1097,
@@ -517,7 +517,7 @@
                 "open_issues": 129,
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1931,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -563,7 +563,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-12T19:50:38Z",
-                "open_issues": 89,
+                "open_issues": 91,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
                 "stars": 1746,
@@ -661,7 +661,7 @@
                 "open_issues": 11,
                 "owner": "o1-labs",
                 "repo": "snarky",
-                "stars": 509,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:06:20.334Z",
+    "last_updated": "2026-11-16T00:12:59.043Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
