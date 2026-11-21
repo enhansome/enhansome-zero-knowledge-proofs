@@ -232,8 +232,8 @@
                 "id": 669466632,
                 "language": "Circom",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T16:13:15Z",
-                "open_issues": 50,
+                "last_commit": "2026-11-20T17:09:11Z",
+                "open_issues": 43,
                 "owner": "selfxyz",
                 "repo": "self",
                 "stars": 1266,
@@ -349,7 +349,7 @@
                 "open_issues": 151,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1562,
+                "stars": 1563,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -458,8 +458,8 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-11-19T23:11:01Z",
-                "open_issues": 361,
+                "last_commit": "2026-11-20T23:57:56Z",
+                "open_issues": 366,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 315,
@@ -562,11 +562,11 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T23:22:22Z",
+                "last_commit": "2026-11-20T22:27:17Z",
                 "open_issues": 93,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1745,
+                "stars": 1746,
                 "topics": [
                   "gnark",
                   "golang",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:51:24.686Z",
+    "last_updated": "2026-11-21T01:39:42.471Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
