@@ -257,7 +257,7 @@
                 "open_issues": 79,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1097,
+                "stars": 1094,
                 "topics": [
                   "circom",
                   "ethereum",
@@ -376,7 +376,7 @@
                 "open_issues": 50,
                 "owner": "dalek-cryptography",
                 "repo": "bulletproofs",
-                "stars": 1135,
+                "stars": 1136,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -619,7 +619,7 @@
                 "open_issues": 35,
                 "owner": "zkcrypto",
                 "repo": "bellman",
-                "stars": 1129,
+                "stars": 1130,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T01:39:42.471Z",
+    "last_updated": "2026-11-22T00:35:26.772Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
