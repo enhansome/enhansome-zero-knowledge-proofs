@@ -236,7 +236,7 @@
                 "open_issues": 43,
                 "owner": "selfxyz",
                 "repo": "self",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -346,10 +346,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T06:20:27Z",
-                "open_issues": 151,
+                "open_issues": 152,
                 "owner": "Tongsuo-Project",
                 "repo": "Tongsuo",
-                "stars": 1563,
+                "stars": 1564,
                 "topics": [
                   "chinese-ciphers",
                   "cryptography",
@@ -458,7 +458,7 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-11-20T23:57:56Z",
+                "last_commit": "2026-11-23T16:22:49Z",
                 "open_issues": 366,
                 "owner": "zcash",
                 "repo": "zips",
@@ -562,11 +562,11 @@
                 "id": 242781085,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T22:27:17Z",
+                "last_commit": "2026-11-23T20:15:31Z",
                 "open_issues": 95,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1746,
+                "stars": 1748,
                 "topics": [
                   "gnark",
                   "golang",
@@ -619,7 +619,7 @@
                 "open_issues": 35,
                 "owner": "zkcrypto",
                 "repo": "bellman",
-                "stars": 1130,
+                "stars": 1131,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:03:42.695Z",
+    "last_updated": "2026-11-24T04:55:05.459Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
