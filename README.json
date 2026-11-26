@@ -232,8 +232,8 @@
                 "id": 669466632,
                 "language": "Circom",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T13:44:58Z",
-                "open_issues": 41,
+                "last_commit": "2026-11-25T08:32:54Z",
+                "open_issues": 37,
                 "owner": "selfxyz",
                 "repo": "self",
                 "stars": 1267,
@@ -257,7 +257,7 @@
                 "open_issues": 76,
                 "owner": "semaphore-protocol",
                 "repo": "semaphore",
-                "stars": 1094,
+                "stars": 1095,
                 "topics": [
                   "circom",
                   "ethereum",
@@ -458,7 +458,7 @@
                 "id": 47279130,
                 "language": "TeX",
                 "license": "MIT",
-                "last_commit": "2026-11-25T00:31:13Z",
+                "last_commit": "2026-11-25T19:21:58Z",
                 "open_issues": 364,
                 "owner": "zcash",
                 "repo": "zips",
@@ -566,7 +566,7 @@
                 "open_issues": 96,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1748,
+                "stars": 1749,
                 "topics": [
                   "gnark",
                   "golang",
@@ -637,7 +637,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T13:41:22Z",
-                "open_issues": 257,
+                "open_issues": 259,
                 "owner": "o1-labs",
                 "repo": "o1js",
                 "stars": 605,
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:40:56.109Z",
+    "last_updated": "2026-11-26T02:59:16.697Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
