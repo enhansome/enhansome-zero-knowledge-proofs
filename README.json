@@ -176,7 +176,7 @@
                     "open_issues": 106,
                     "owner": "matter-labs",
                     "repo": "zksync",
-                    "stars": 4912,
+                    "stars": 4910,
                     "topics": [
                       "team-core"
                     ]
@@ -208,7 +208,7 @@
                 "open_issues": 49,
                 "owner": "valida-xyz",
                 "repo": "valida",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:25:50.104Z"
@@ -232,8 +232,8 @@
                 "id": 669466632,
                 "language": "Circom",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-26T16:16:10Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-27T17:10:38Z",
+                "open_issues": 39,
                 "owner": "selfxyz",
                 "repo": "self",
                 "stars": 1267,
@@ -459,7 +459,7 @@
                 "language": "TeX",
                 "license": "MIT",
                 "last_commit": "2026-11-25T19:21:58Z",
-                "open_issues": 367,
+                "open_issues": 369,
                 "owner": "zcash",
                 "repo": "zips",
                 "stars": 315,
@@ -566,7 +566,7 @@
                 "open_issues": 98,
                 "owner": "Consensys-Incorporated",
                 "repo": "gnark",
-                "stars": 1750,
+                "stars": 1751,
                 "topics": [
                   "gnark",
                   "golang",
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:07:16.215Z",
+    "last_updated": "2026-11-28T02:53:27.305Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
@@ -1033,7 +1033,7 @@
       "open_issues": 0,
       "owner": "matter-labs-archive",
       "repo": "awesome-zero-knowledge-proofs",
-      "stars": 5847,
+      "stars": 5846,
       "topics": [
         "explaining-snarks",
         "knowledge-proofs",

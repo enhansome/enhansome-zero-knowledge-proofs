@@ -95,14 +95,14 @@ More complete curated list of implementations and scientific resources:
 * [zkPoD: A Practical Decentralized System for Data Exchange](https://github.com/sec-bit/zkPoD-node) ⭐ 210 | 🐛 4 | 🌐 Go | 📅 2023-05-21
 * [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion) ⭐ 91 | 🐛 9 | 🌐 TeX | 📅 2021-12-01
 * [ZK Sync](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58) by [Matter Labs](https://matter-labs.io)
-  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,912 | 🐛 106 | 🌐 Rust | 📅 2026-11-19
+  * [ZK Sync code](https://github.com/matter-labs/zksync) ⭐ 4,910 | 🐛 106 | 🌐 Rust | 📅 2026-11-19
   * [ZK SDK](https://zksync.io)
 * [Loopring DEX Protocol (v3)](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
 * [Dark Forest: zkSNARK space warfare strategy game](https://zkga.me/)
 
 ### Other blockchains
 
-* [Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions](https://github.com/valida-xyz/valida) ⭐ 346 | 🐛 49 | 🌐 Rust | 📅 2026-04-27
+* [Valida： Valida is a STARK-based virtual machine，The VM has a RISC-inspired instruction set，The VM is designed to be customizable. It can easily be extended to include an arbitrary number of user-defined instructions](https://github.com/valida-xyz/valida) ⭐ 347 | 🐛 49 | 🌐 Rust | 📅 2026-04-27
 * [Zcash: Privacy-Protecting Digital Currency](https://z.cash) (SNARKs)
   * [Community Chat](https://discord.com/invite/zcash)
   * [Forums](https://forum.zcashcommunity.com)
@@ -123,7 +123,7 @@ More complete curated list of implementations and scientific resources:
 
 ### Non-blockchain
 
-* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,267 | 🐛 38 | 🌐 Circom | 📅 2026-11-26
+* [Proof of Passport](https://github.com/zk-passport/proof-of-passport) ⭐ 1,267 | 🐛 39 | 🌐 Circom | 📅 2026-11-27
 * [Semaphore](https://github.com/semaphore-protocol/semaphore) ⭐ 1,095 | 🐛 76 | 🌐 TypeScript | 📅 2026-11-22
 * Zero-Knowledge Machine Learning - [awesome-zkml](https://github.com/worldcoin/awesome-zkml) ⚠️ Archived
 * [zk-email](https://github.com/zkemail)
@@ -209,7 +209,7 @@ Vitalik Buterin's blog series on SNARKs:
 
 Protocol descriptions:
 
-* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 315 | 🐛 367 | 🌐 TeX | 📅 2026-11-25 (very useful as detailed cheat-sheet of all cryptography used)
+* [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf) ⭐ 315 | 🐛 369 | 🌐 TeX | 📅 2026-11-25 (very useful as detailed cheat-sheet of all cryptography used)
 * [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 * [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 
@@ -225,7 +225,7 @@ OxPARC learning group:
 * [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates) ⭐ 1,872 | 🐛 121 | 🌐 Rust | 📅 2024-08-01
   * [ZoKrates Remix plugin tutorial](https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6)
   * [Zero Knowledge Proof Application Demo, with libsnarks, truffle and docker](https://medium.com/hackernoon/zero-knowledge-proof-application-demo-2a457cfc73c1)
-* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,750 | 🐛 98 | 🌐 Go | 📅 2026-11-23
+* [gnark - library for zero-knowledge proof protocols written in Go](https://github.com/ConsenSys/gnark) ⭐ 1,751 | 🐛 98 | 🌐 Go | 📅 2026-11-23
 * [bellman (rust)](https://github.com/zkcrypto/bellman/) ⭐ 1,131 | 🐛 35 | 🌐 Rust | 📅 2026-11-14
   * [demo circuit](https://github.com/ebfull/bellman-demo) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2018-09-26
 * [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs) ⭐ 605 | 🐛 259 | 🌐 TypeScript | 📅 2026-11-05
@@ -307,7 +307,7 @@ Vitalik Buterin's blog series on STARKs:
 Academic resources:
 
 * [The STARK paper](https://eprint.iacr.org/2018/046.pdf)
-* [libstark implementation](https://github.com/elibensasson/libSTARK) ⭐ 566 | 🐛 20 | 🌐 C++ | 📅 2023-03-24
+* [libstark implementation](https://github.com/elibensasson/libSTARK) ⭐ 567 | 🐛 20 | 🌐 C++ | 📅 2023-03-24
 
 More resources available at [starkware.co](https://www.starkware.co)
 
@@ -334,4 +334,4 @@ Stay tuned!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
